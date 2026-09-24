@@ -1,0 +1,1153 @@
+{
+  "config": {
+    "totalCards": 52,
+    "rulerCount": 9,
+    "pointsDistribution": {
+      "C": 8,
+      "L": 6,
+      "M": 4,
+      "R": 2,
+      "Rival": 0,
+      "Special": 0
+    },
+    "totalPoints": 180,
+    "handSize": 5,
+    "theme": "Indian Freedom Struggle",
+    "title": "DHARMA: THE CHRONICLES OF BHARAT",
+    "edition": "SWARAJYUGA : THE INDIAN FREEDOM TELES"
+  },
+  "rulers": [
+    {
+      "id": "mangal_pandey",
+      "name": "Mangal Pandey",
+      "era": "1857 · Barrackpore Native Infantry",
+      "father": null,
+      "son": "1857 Uprising Vanguard",
+      "kinship": "Pioneer of the 1857 First War of Independence",
+      "historicalNarrative": "Sepoy of the 34th Bengal Native Infantry whose defiant stand at Barrackpore on March 29, 1857 against the British East India Company ignited widespread rebellion across northern and central India.",
+      "cards": {
+        "C": {
+          "id": "c1",
+          "name": "Mangal Pandey",
+          "points": 8,
+          "category": "C",
+          "symbol": "🇮🇳",
+          "detail": "Sepoy of the 34th Bengal Native Infantry whose defiant stand at Barrackpore on March 29, 1857 ignited the First War of Indian Independence."
+        },
+        "L": {
+          "id": "l1",
+          "name": "Barrackpore Revolt of 1857",
+          "points": 6,
+          "category": "L",
+          "symbol": "✊",
+          "detail": "The historic rebellion on the parade ground of Barrackpore in March 1857, sounding the bugle of national defiance against colonial rule."
+        },
+        "M": {
+          "id": "m1",
+          "name": "Barrackpore Uprising",
+          "points": 4,
+          "category": "M",
+          "symbol": "🔥",
+          "detail": "The spark of heroic resistance that shattered the myth of colonial invincibility and inspired freedom fighters across the subcontinent."
+        },
+        "R": {
+          "id": "r1",
+          "name": "Barrackpore",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Cantonment town along the sacred Hooghly River in Bengal where Sepoy Mangal Pandey fired the first shot of the 1857 Indian rebellion."
+        }
+      }
+    },
+    {
+      "id": "rani_lakshmibai",
+      "name": "Rani Lakshmibai",
+      "era": "1857 · Kingdom of Jhansi",
+      "father": null,
+      "son": "Damodar Rao (Adopted)",
+      "kinship": "Legendary Queen of Jhansi & Revolutionary Leader",
+      "historicalNarrative": "The fearless Queen of Jhansi who rejected British annexation under the Doctrine of Lapse, commanding her forces on the battlefield with heroic valor and becoming the eternal symbol of patriotic resistance.",
+      "cards": {
+        "C": {
+          "id": "c2",
+          "name": "Rani Lakshmibai",
+          "points": 8,
+          "category": "C",
+          "symbol": "⚔️",
+          "detail": "The fearless Queen of Jhansi who rode into battle with sword in hand, leading her soldiers against British annexation forces in 1857."
+        },
+        "L": {
+          "id": "l2",
+          "name": "Revolt of Jhansi",
+          "points": 6,
+          "category": "L",
+          "symbol": "🛡️",
+          "detail": "The steadfast resistance of Jhansi rejecting the Doctrine of Lapse, declaring sovereignty with the immortal cry: 'I shall not give up my Jhansi!'"
+        },
+        "M": {
+          "id": "m2",
+          "name": "Defence of Jhansi",
+          "points": 4,
+          "category": "M",
+          "symbol": "🏰",
+          "detail": "The heroic multi-week defence of the Jhansi fort walls and cavalry sallies against overwhelming British siege forces."
+        },
+        "R": {
+          "id": "r2",
+          "name": "Jhansi",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Historic fort city in Bundelkhand whose majestic citadel and granite ramparts stood as an unbreakable bulwark of national freedom."
+        }
+      }
+    },
+    {
+      "id": "bal_gangadhar_tilak",
+      "name": "Bal Gangadhar Tilak",
+      "era": "1880–1920 · Indian National Movement",
+      "father": null,
+      "son": "Lal-Bal-Pal Trio",
+      "kinship": "Lokmanya · Maker of Modern India",
+      "historicalNarrative": "Scholar, mathematician, and nationalist leader who transformed the freedom struggle into a mass movement with the fiery declaration: 'Swaraj is my birthright and I shall have it.'",
+      "cards": {
+        "C": {
+          "id": "c3",
+          "name": "Bal Gangadhar Tilak",
+          "points": 8,
+          "category": "C",
+          "symbol": "📜",
+          "detail": "Lokmanya Tilak, architect of mass Indian nationalism who proclaimed: 'Swaraj is my birthright and I shall have it!'"
+        },
+        "L": {
+          "id": "l3",
+          "name": "Swaraj Movement",
+          "points": 6,
+          "category": "L",
+          "symbol": "⚡",
+          "detail": "The nationwide movement demanding complete self-rule (Swaraj), Swadeshi economic boycott, and national education."
+        },
+        "M": {
+          "id": "m3",
+          "name": "Kesari Newspaper",
+          "points": 4,
+          "category": "M",
+          "symbol": "📰",
+          "detail": "The pioneering nationalist Marathi journal founded in 1881 that fearlessly exposed colonial tyranny and rallied millions to the freedom banner."
+        },
+        "R": {
+          "id": "r3",
+          "name": "Pune",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Cultural heart of Maharashtra where Lokmanya Tilak established Kesari, Deccan Education Society, and mass patriotic community celebrations."
+        }
+      }
+    },
+    {
+      "id": "lala_lajpat_rai",
+      "name": "Lala Lajpat Rai",
+      "era": "1890–1928 · Punjab Nationalist Movement",
+      "father": null,
+      "son": "Punjab Kesari Vanguard",
+      "kinship": "Punjab Kesari (Lion of Punjab) · Lal-Bal-Pal",
+      "historicalNarrative": "Foremost freedom fighter, author, and social reformer whose fearless resistance against colonial injustice and the Simon Commission ignited the revolutionary fire of Bhagat Singh and his comrades.",
+      "cards": {
+        "C": {
+          "id": "c4",
+          "name": "Lala Lajpat Rai",
+          "points": 8,
+          "category": "C",
+          "symbol": "🦁",
+          "detail": "Punjab Kesari (The Lion of Punjab), fearless member of Lal-Bal-Pal who led mass protests against British commissions and colonial oppression."
+        },
+        "L": {
+          "id": "l4",
+          "name": "Punjab Nationalist Movement",
+          "points": 6,
+          "category": "L",
+          "symbol": "🚩",
+          "detail": "Grassroots nationalist mobilization across Punjab demanding agrarian justice, civil rights, and complete liberation from colonial subjugation."
+        },
+        "M": {
+          "id": "m4",
+          "name": "Servants of the People Society",
+          "points": 4,
+          "category": "M",
+          "symbol": "🤝",
+          "detail": "The legendary national society inaugurated in Lahore in 1921 to enlist and train selfless patriotic youth for national public service."
+        },
+        "R": {
+          "id": "r4",
+          "name": "Amritsar",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "The historic city of Punjab, epicenter of fierce political activism, congress sessions, and steadfast resistance against imperial exploitation."
+        }
+      }
+    },
+    {
+      "id": "mahatma_gandhi",
+      "name": "Mahatma Gandhi",
+      "era": "1915–1948 · Satyagraha Era",
+      "father": null,
+      "son": "Father of the Nation",
+      "kinship": "Father of the Nation · Architect of Ahimsa",
+      "historicalNarrative": "Leader of India's independence movement through non-violent civil disobedience (Ahimsa and Satyagraha), uniting hundreds of millions in mass marches, economic self-reliance, and moral resolve.",
+      "cards": {
+        "C": {
+          "id": "c5",
+          "name": "Mahatma Gandhi",
+          "points": 8,
+          "category": "C",
+          "symbol": "🕊️",
+          "detail": "Father of the Nation who mobilized millions through non-violent Satyagraha, pioneering the Dandi Salt March and Quit India movement."
+        },
+        "L": {
+          "id": "l5",
+          "name": "Satyagraha Movement",
+          "points": 6,
+          "category": "L",
+          "symbol": "⚖️",
+          "detail": "The philosophy and weapon of non-violent civil resistance, truth, and moral courage that challenged the might of the British Empire."
+        },
+        "M": {
+          "id": "m5",
+          "name": "Charkha & Khadi",
+          "points": 4,
+          "category": "M",
+          "symbol": "☸️",
+          "detail": "The humble wooden spinning wheel and handspun cloth that became the national emblem of self-reliance, unity, and economic independence."
+        },
+        "R": {
+          "id": "r5",
+          "name": "Sabarmati Ashram",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Gandhi's historic riverside sanctuary in Ahmedabad, nerve center of Satyagraha planning and starting point of the historic 1930 Dandi March."
+        }
+      }
+    },
+    {
+      "id": "sardar_patel",
+      "name": "Sardar Vallabhbhai Patel",
+      "era": "1917–1950 · Unified Indian Union",
+      "father": null,
+      "son": "Iron Man of India",
+      "kinship": "Iron Man of India · Architect of National Unity",
+      "historicalNarrative": "Steadfast peasant organizer of Kheda and Bardoli who served as India's first Deputy Prime Minister and Home Minister, achieving the monumental integration of over 560 princely states into one united nation.",
+      "cards": {
+        "C": {
+          "id": "c6",
+          "name": "Sardar Vallabhbhai Patel",
+          "points": 8,
+          "category": "C",
+          "symbol": "🛡️",
+          "detail": "The Iron Man of India whose visionary statesmanship and iron will integrated over 560 princely states into the sovereign Republic of India."
+        },
+        "L": {
+          "id": "l6",
+          "name": "Bardoli Satyagraha",
+          "points": 6,
+          "category": "L",
+          "symbol": "🌾",
+          "detail": "The triumphant peasant non-tax campaign of 1928 that defeated colonial tax extortion and earned Vallabhbhai the revered title of 'Sardar'."
+        },
+        "M": {
+          "id": "m6",
+          "name": "Kheda & Bardoli Leadership",
+          "points": 4,
+          "category": "M",
+          "symbol": "🏛️",
+          "detail": "Masterful grassroots organizational discipline that empowered farmers, unified communities, and compelled colonial authorities to yield."
+        },
+        "R": {
+          "id": "r6",
+          "name": "Bardoli",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Rural heartland in Gujarat that became the crucible of peasant solidarity, non-violent discipline, and Patel's legendary leadership."
+        }
+      }
+    },
+    {
+      "id": "bhagat_singh",
+      "name": "Bhagat Singh",
+      "era": "1924–1931 · Revolutionary Socialist Movement",
+      "father": null,
+      "son": "HSRA Revolutionary Vanguard",
+      "kinship": "Shaheed-e-Azam · HSRA Luminary",
+      "historicalNarrative": "Visionary socialist revolutionary who challenged imperial tyranny with the call of 'Inquilab Zindabad', sacrificing his life at age 23 with unshakeable conviction for a free, just, and egalitarian India.",
+      "cards": {
+        "C": {
+          "id": "c7",
+          "name": "Bhagat Singh",
+          "points": 8,
+          "category": "C",
+          "symbol": "⭐",
+          "detail": "Shaheed Bhagat Singh, intellectual and fearless socialist revolutionary whose supreme sacrifice and cry of 'Inquilab Zindabad' electrified India."
+        },
+        "L": {
+          "id": "l7",
+          "name": "Inquilab Movement",
+          "points": 6,
+          "category": "L",
+          "symbol": "🔥",
+          "detail": "The clarion call of revolution aimed at overthrowing foreign imperialism and eradicating exploitation to establish a just, sovereign socialist republic."
+        },
+        "M": {
+          "id": "m7",
+          "name": "Hindustan Socialist Republican Association (HSRA)",
+          "points": 4,
+          "category": "M",
+          "symbol": "🚩",
+          "detail": "The militant revolutionary vanguard reorganized in 1928, dedicated to armed resistance against colonial rule and the emancipation of the masses."
+        },
+        "R": {
+          "id": "r7",
+          "name": "Feroz Shah Kotla, Delhi",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Ancient ruins of Delhi fortress where Bhagat Singh, Azad, and fellow revolutionaries convened in September 1928 to resolve on socialist revolution."
+        }
+      }
+    },
+    {
+      "id": "chandrashekhar_azad",
+      "name": "Chandrashekhar Azad",
+      "era": "1920–1931 · Hindustan Revolutionary Movement",
+      "father": null,
+      "son": "Commander of Freedom",
+      "kinship": "Commander-in-Chief of HSRA · The Unconquered",
+      "historicalNarrative": "Legendary revolutionary commander who organized underground resistance, mentored youthful revolutionaries, and kept his pledge never to be captured alive by colonial police.",
+      "cards": {
+        "C": {
+          "id": "c8",
+          "name": "Chandrashekhar Azad",
+          "points": 8,
+          "category": "C",
+          "symbol": "🎯",
+          "detail": "Legendary Commander-in-Chief of the HSRA who defied colonial police with the vow: 'Dushman ki goliyon ka hum samna karenge, Azad hi rahe hain, Azad hi rahenge!'"
+        },
+        "L": {
+          "id": "l8",
+          "name": "Hindustan Revolutionary Movement",
+          "points": 6,
+          "category": "L",
+          "symbol": "⚡",
+          "detail": "The underground armed resistance network that struck strategic blows against British tyranny and inspired unconditional patriotism."
+        },
+        "M": {
+          "id": "m8",
+          "name": "Hindustan Republican Association (HRA)",
+          "points": 4,
+          "category": "M",
+          "symbol": "⚔️",
+          "detail": "The resolute revolutionary organization formed to federate freedom fighters across North India in coordinated defense of the nation."
+        },
+        "R": {
+          "id": "r8",
+          "name": "Alfred Park, Allahabad",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "Historic park in Prayagraj where Azad fought alone against surrounded colonial police forces, upholding his vow to remain forever Azad."
+        }
+      }
+    },
+    {
+      "id": "subhas_chandra_bose",
+      "name": "Subhas Chandra Bose",
+      "era": "1921–1945 · Azad Hind Movement",
+      "father": null,
+      "son": "Netaji · Azad Hind Fauj",
+      "kinship": "Netaji · Supreme Commander of INA",
+      "historicalNarrative": "Dynamic nationalist leader who established the Provisional Government of Free India and led the Indian National Army (Azad Hind Fauj) in a military campaign to liberate India from British rule.",
+      "cards": {
+        "C": {
+          "id": "c9",
+          "name": "Subhas Chandra Bose",
+          "points": 8,
+          "category": "C",
+          "symbol": "🎖️",
+          "detail": "Netaji, supreme commander of the Indian National Army who rallied the nation with: 'Give me blood, and I shall give you freedom!'"
+        },
+        "L": {
+          "id": "l9",
+          "name": "Azad Hind Movement",
+          "points": 6,
+          "category": "L",
+          "symbol": "🌅",
+          "detail": "The Provisional Government of Free India established in 1943, creating its own military, currency, and administration to liberate the motherland."
+        },
+        "M": {
+          "id": "m9",
+          "name": "Indian National Army (INA)",
+          "points": 4,
+          "category": "M",
+          "symbol": "🐅",
+          "detail": "The heroic Azad Hind Fauj with its brave soldiers and Rani of Jhansi Regiment that fought valiantly on the northeastern frontier for India's independence."
+        },
+        "R": {
+          "id": "r9",
+          "name": "Singapore",
+          "points": 2,
+          "category": "R",
+          "symbol": "📍",
+          "detail": "The historic Southeast Asian hub where Netaji took command of the INA, proclaimed the Azad Hind Government, and sounded the call of 'Dilli Chalo!'."
+        }
+      }
+    }
+  ],
+  "specialCards": [
+    {
+      "id": "sp_godse",
+      "name": "Nathuram Godse — The Assassin",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "⚔️",
+      "count": 2,
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Historical Antagonist & Epilogue: The assassin who took the life of Mahatma Gandhi. Not a freedom fighter. Steals all accumulated points from the central Pot."
+    },
+    {
+      "id": "sp_mountbatten",
+      "name": "Lord Mountbatten — The Last Viceroy",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "👑",
+      "count": 2,
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Colonial Authority: The last British Viceroy who presided over the turbulent partition and transfer of power. Steals all accumulated points from the central Pot."
+    },
+    {
+      "id": "sp_aadesh",
+      "name": "Gandhi's Aadesh — Do or Die",
+      "type": "aadesh",
+      "category": "Special",
+      "symbol": "📜",
+      "count": 2,
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Historic Command: The famous August 1942 mandate of 'Karo ya Maro' (Do or Die). The player commands a category (Leader, Movement, Contribution, or Historical Place). The next player MUST play a matching card or Wild."
+    },
+    {
+      "id": "sp_mouna",
+      "name": "Silent Protest",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "🤫",
+      "count": 4,
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "Silent Protest: A disciplined non-violent Hartal and peaceful silence. Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp_reverse",
+      "name": "Revolutionary Turn",
+      "type": "chakravyuha",
+      "category": "Special",
+      "symbol": "🌀",
+      "count": 2,
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "Revolutionary Turn: A dramatic shift in the political tide! Instantly reverses the flow of play (clockwise becomes anticlockwise)."
+    },
+    {
+      "id": "sp_crisis_jallianwala",
+      "name": "Jallianwala Bagh Crisis",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "🛑",
+      "count": 2,
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Crisis: The tragic massacre at Amritsar on Baisakhi 1919 shook India! Forces the next player to respond by playing an R (Historical Place) card or a Wild card."
+    },
+    {
+      "id": "sp_crisis_colonial",
+      "name": "Colonial Repression",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "⛓️",
+      "count": 2,
+      "points": 0,
+      "effect": "force_movement",
+      "historicalContext": "Crisis: Draconian colonial crackdowns, lathi charges, and repressive ordinances sweep the nation! Forces the next player to respond by playing an Le (Movement / Ideology) card or a Wild card."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "category": "C",
+      "name": "Mangal Pandey",
+      "points": 8,
+      "ruler": "Mangal Pandey",
+      "rulerId": "mangal_pandey",
+      "rulerName": "Mangal Pandey",
+      "symbol": "🇮🇳",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "1857 Uprising Vanguard",
+      "historicalDetail": "Sepoy of the 34th Bengal Native Infantry whose defiant stand at Barrackpore on March 29, 1857 ignited the First War of Indian Independence."
+    },
+    {
+      "id": "l1",
+      "category": "L",
+      "name": "Barrackpore Revolt of 1857",
+      "points": 6,
+      "ruler": "Mangal Pandey",
+      "rulerId": "mangal_pandey",
+      "rulerName": "Mangal Pandey",
+      "symbol": "✊",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The historic rebellion on the parade ground of Barrackpore in March 1857, sounding the bugle of national defiance against colonial rule."
+    },
+    {
+      "id": "m1",
+      "category": "M",
+      "name": "Barrackpore Uprising",
+      "points": 4,
+      "ruler": "Mangal Pandey",
+      "rulerId": "mangal_pandey",
+      "rulerName": "Mangal Pandey",
+      "symbol": "🔥",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The spark of heroic resistance that shattered the myth of colonial invincibility and inspired freedom fighters across the subcontinent."
+    },
+    {
+      "id": "r1",
+      "category": "R",
+      "name": "Barrackpore",
+      "points": 2,
+      "ruler": "Mangal Pandey",
+      "rulerId": "mangal_pandey",
+      "rulerName": "Mangal Pandey",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Cantonment town along the sacred Hooghly River in Bengal where Sepoy Mangal Pandey fired the first shot of the 1857 Indian rebellion."
+    },
+    {
+      "id": "c2",
+      "category": "C",
+      "name": "Rani Lakshmibai",
+      "points": 8,
+      "ruler": "Rani Lakshmibai",
+      "rulerId": "rani_lakshmibai",
+      "rulerName": "Rani Lakshmibai",
+      "symbol": "⚔️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Damodar Rao (Adopted)",
+      "historicalDetail": "The fearless Queen of Jhansi who rode into battle with sword in hand, leading her soldiers against British annexation forces in 1857."
+    },
+    {
+      "id": "l2",
+      "category": "L",
+      "name": "Revolt of Jhansi",
+      "points": 6,
+      "ruler": "Rani Lakshmibai",
+      "rulerId": "rani_lakshmibai",
+      "rulerName": "Rani Lakshmibai",
+      "symbol": "🛡️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The steadfast resistance of Jhansi rejecting the Doctrine of Lapse, declaring sovereignty with the immortal cry: 'I shall not give up my Jhansi!'"
+    },
+    {
+      "id": "m2",
+      "category": "M",
+      "name": "Defence of Jhansi",
+      "points": 4,
+      "ruler": "Rani Lakshmibai",
+      "rulerId": "rani_lakshmibai",
+      "rulerName": "Rani Lakshmibai",
+      "symbol": "🏰",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The heroic multi-week defence of the Jhansi fort walls and cavalry sallies against overwhelming British siege forces."
+    },
+    {
+      "id": "r2",
+      "category": "R",
+      "name": "Jhansi",
+      "points": 2,
+      "ruler": "Rani Lakshmibai",
+      "rulerId": "rani_lakshmibai",
+      "rulerName": "Rani Lakshmibai",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Historic fort city in Bundelkhand whose majestic citadel and granite ramparts stood as an unbreakable bulwark of national freedom."
+    },
+    {
+      "id": "c3",
+      "category": "C",
+      "name": "Bal Gangadhar Tilak",
+      "points": 8,
+      "ruler": "Bal Gangadhar Tilak",
+      "rulerId": "bal_gangadhar_tilak",
+      "rulerName": "Bal Gangadhar Tilak",
+      "symbol": "📜",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Lal-Bal-Pal Trio",
+      "historicalDetail": "Lokmanya Tilak, architect of mass Indian nationalism who proclaimed: 'Swaraj is my birthright and I shall have it!'"
+    },
+    {
+      "id": "l3",
+      "category": "L",
+      "name": "Swaraj Movement",
+      "points": 6,
+      "ruler": "Bal Gangadhar Tilak",
+      "rulerId": "bal_gangadhar_tilak",
+      "rulerName": "Bal Gangadhar Tilak",
+      "symbol": "⚡",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The nationwide movement demanding complete self-rule (Swaraj), Swadeshi economic boycott, and national education."
+    },
+    {
+      "id": "m3",
+      "category": "M",
+      "name": "Kesari Newspaper",
+      "points": 4,
+      "ruler": "Bal Gangadhar Tilak",
+      "rulerId": "bal_gangadhar_tilak",
+      "rulerName": "Bal Gangadhar Tilak",
+      "symbol": "📰",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The pioneering nationalist Marathi journal founded in 1881 that fearlessly exposed colonial tyranny and rallied millions to the freedom banner."
+    },
+    {
+      "id": "r3",
+      "category": "R",
+      "name": "Pune",
+      "points": 2,
+      "ruler": "Bal Gangadhar Tilak",
+      "rulerId": "bal_gangadhar_tilak",
+      "rulerName": "Bal Gangadhar Tilak",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Cultural heart of Maharashtra where Lokmanya Tilak established Kesari, Deccan Education Society, and mass patriotic community celebrations."
+    },
+    {
+      "id": "c4",
+      "category": "C",
+      "name": "Lala Lajpat Rai",
+      "points": 8,
+      "ruler": "Lala Lajpat Rai",
+      "rulerId": "lala_lajpat_rai",
+      "rulerName": "Lala Lajpat Rai",
+      "symbol": "🦁",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Punjab Kesari Vanguard",
+      "historicalDetail": "Punjab Kesari (The Lion of Punjab), fearless member of Lal-Bal-Pal who led mass protests against British commissions and colonial oppression."
+    },
+    {
+      "id": "l4",
+      "category": "L",
+      "name": "Punjab Nationalist Movement",
+      "points": 6,
+      "ruler": "Lala Lajpat Rai",
+      "rulerId": "lala_lajpat_rai",
+      "rulerName": "Lala Lajpat Rai",
+      "symbol": "🚩",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Grassroots nationalist mobilization across Punjab demanding agrarian justice, civil rights, and complete liberation from colonial subjugation."
+    },
+    {
+      "id": "m4",
+      "category": "M",
+      "name": "Servants of the People Society",
+      "points": 4,
+      "ruler": "Lala Lajpat Rai",
+      "rulerId": "lala_lajpat_rai",
+      "rulerName": "Lala Lajpat Rai",
+      "symbol": "🤝",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The legendary national society inaugurated in Lahore in 1921 to enlist and train selfless patriotic youth for national public service."
+    },
+    {
+      "id": "r4",
+      "category": "R",
+      "name": "Amritsar",
+      "points": 2,
+      "ruler": "Lala Lajpat Rai",
+      "rulerId": "lala_lajpat_rai",
+      "rulerName": "Lala Lajpat Rai",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The historic city of Punjab, epicenter of fierce political activism, congress sessions, and steadfast resistance against imperial exploitation."
+    },
+    {
+      "id": "c5",
+      "category": "C",
+      "name": "Mahatma Gandhi",
+      "points": 8,
+      "ruler": "Mahatma Gandhi",
+      "rulerId": "mahatma_gandhi",
+      "rulerName": "Mahatma Gandhi",
+      "symbol": "🕊️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Father of the Nation",
+      "historicalDetail": "Father of the Nation who mobilized millions through non-violent Satyagraha, pioneering the Dandi Salt March and Quit India movement."
+    },
+    {
+      "id": "l5",
+      "category": "L",
+      "name": "Satyagraha Movement",
+      "points": 6,
+      "ruler": "Mahatma Gandhi",
+      "rulerId": "mahatma_gandhi",
+      "rulerName": "Mahatma Gandhi",
+      "symbol": "⚖️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The philosophy and weapon of non-violent civil resistance, truth, and moral courage that challenged the might of the British Empire."
+    },
+    {
+      "id": "m5",
+      "category": "M",
+      "name": "Charkha & Khadi",
+      "points": 4,
+      "ruler": "Mahatma Gandhi",
+      "rulerId": "mahatma_gandhi",
+      "rulerName": "Mahatma Gandhi",
+      "symbol": "☸️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The humble wooden spinning wheel and handspun cloth that became the national emblem of self-reliance, unity, and economic independence."
+    },
+    {
+      "id": "r5",
+      "category": "R",
+      "name": "Sabarmati Ashram",
+      "points": 2,
+      "ruler": "Mahatma Gandhi",
+      "rulerId": "mahatma_gandhi",
+      "rulerName": "Mahatma Gandhi",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Gandhi's historic riverside sanctuary in Ahmedabad, nerve center of Satyagraha planning and starting point of the historic 1930 Dandi March."
+    },
+    {
+      "id": "c6",
+      "category": "C",
+      "name": "Sardar Vallabhbhai Patel",
+      "points": 8,
+      "ruler": "Sardar Vallabhbhai Patel",
+      "rulerId": "sardar_patel",
+      "rulerName": "Sardar Vallabhbhai Patel",
+      "symbol": "🛡️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Iron Man of India",
+      "historicalDetail": "The Iron Man of India whose visionary statesmanship and iron will integrated over 560 princely states into the sovereign Republic of India."
+    },
+    {
+      "id": "l6",
+      "category": "L",
+      "name": "Bardoli Satyagraha",
+      "points": 6,
+      "ruler": "Sardar Vallabhbhai Patel",
+      "rulerId": "sardar_patel",
+      "rulerName": "Sardar Vallabhbhai Patel",
+      "symbol": "🌾",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The triumphant peasant non-tax campaign of 1928 that defeated colonial tax extortion and earned Vallabhbhai the revered title of 'Sardar'."
+    },
+    {
+      "id": "m6",
+      "category": "M",
+      "name": "Kheda & Bardoli Leadership",
+      "points": 4,
+      "ruler": "Sardar Vallabhbhai Patel",
+      "rulerId": "sardar_patel",
+      "rulerName": "Sardar Vallabhbhai Patel",
+      "symbol": "🏛️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Masterful grassroots organizational discipline that empowered farmers, unified communities, and compelled colonial authorities to yield."
+    },
+    {
+      "id": "r6",
+      "category": "R",
+      "name": "Bardoli",
+      "points": 2,
+      "ruler": "Sardar Vallabhbhai Patel",
+      "rulerId": "sardar_patel",
+      "rulerName": "Sardar Vallabhbhai Patel",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Rural heartland in Gujarat that became the crucible of peasant solidarity, non-violent discipline, and Patel's legendary leadership."
+    },
+    {
+      "id": "c7",
+      "category": "C",
+      "name": "Bhagat Singh",
+      "points": 8,
+      "ruler": "Bhagat Singh",
+      "rulerId": "bhagat_singh",
+      "rulerName": "Bhagat Singh",
+      "symbol": "⭐",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "HSRA Revolutionary Vanguard",
+      "historicalDetail": "Shaheed Bhagat Singh, intellectual and fearless socialist revolutionary whose supreme sacrifice and cry of 'Inquilab Zindabad' electrified India."
+    },
+    {
+      "id": "l7",
+      "category": "L",
+      "name": "Inquilab Movement",
+      "points": 6,
+      "ruler": "Bhagat Singh",
+      "rulerId": "bhagat_singh",
+      "rulerName": "Bhagat Singh",
+      "symbol": "🔥",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The clarion call of revolution aimed at overthrowing foreign imperialism and eradicating exploitation to establish a just, sovereign socialist republic."
+    },
+    {
+      "id": "m7",
+      "category": "M",
+      "name": "Hindustan Socialist Republican Association (HSRA)",
+      "points": 4,
+      "ruler": "Bhagat Singh",
+      "rulerId": "bhagat_singh",
+      "rulerName": "Bhagat Singh",
+      "symbol": "🚩",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The militant revolutionary vanguard reorganized in 1928, dedicated to armed resistance against colonial rule and the emancipation of the masses."
+    },
+    {
+      "id": "r7",
+      "category": "R",
+      "name": "Feroz Shah Kotla, Delhi",
+      "points": 2,
+      "ruler": "Bhagat Singh",
+      "rulerId": "bhagat_singh",
+      "rulerName": "Bhagat Singh",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Ancient ruins of Delhi fortress where Bhagat Singh, Azad, and fellow revolutionaries convened in September 1928 to resolve on socialist revolution."
+    },
+    {
+      "id": "c8",
+      "category": "C",
+      "name": "Chandrashekhar Azad",
+      "points": 8,
+      "ruler": "Chandrashekhar Azad",
+      "rulerId": "chandrashekhar_azad",
+      "rulerName": "Chandrashekhar Azad",
+      "symbol": "🎯",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Commander of Freedom",
+      "historicalDetail": "Legendary Commander-in-Chief of the HSRA who defied colonial police with the vow: 'Dushman ki goliyon ka hum samna karenge, Azad hi rahe hain, Azad hi rahenge!'"
+    },
+    {
+      "id": "l8",
+      "category": "L",
+      "name": "Hindustan Revolutionary Movement",
+      "points": 6,
+      "ruler": "Chandrashekhar Azad",
+      "rulerId": "chandrashekhar_azad",
+      "rulerName": "Chandrashekhar Azad",
+      "symbol": "⚡",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The underground armed resistance network that struck strategic blows against British tyranny and inspired unconditional patriotism."
+    },
+    {
+      "id": "m8",
+      "category": "M",
+      "name": "Hindustan Republican Association (HRA)",
+      "points": 4,
+      "ruler": "Chandrashekhar Azad",
+      "rulerId": "chandrashekhar_azad",
+      "rulerName": "Chandrashekhar Azad",
+      "symbol": "⚔️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The resolute revolutionary organization formed to federate freedom fighters across North India in coordinated defense of the nation."
+    },
+    {
+      "id": "r8",
+      "category": "R",
+      "name": "Alfred Park, Allahabad",
+      "points": 2,
+      "ruler": "Chandrashekhar Azad",
+      "rulerId": "chandrashekhar_azad",
+      "rulerName": "Chandrashekhar Azad",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "Historic park in Prayagraj where Azad fought alone against surrounded colonial police forces, upholding his vow to remain forever Azad."
+    },
+    {
+      "id": "c9",
+      "category": "C",
+      "name": "Subhas Chandra Bose",
+      "points": 8,
+      "ruler": "Subhas Chandra Bose",
+      "rulerId": "subhas_chandra_bose",
+      "rulerName": "Subhas Chandra Bose",
+      "symbol": "🎖️",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Netaji · Azad Hind Fauj",
+      "historicalDetail": "Netaji, supreme commander of the Indian National Army who rallied the nation with: 'Give me blood, and I shall give you freedom!'"
+    },
+    {
+      "id": "l9",
+      "category": "L",
+      "name": "Azad Hind Movement",
+      "points": 6,
+      "ruler": "Subhas Chandra Bose",
+      "rulerId": "subhas_chandra_bose",
+      "rulerName": "Subhas Chandra Bose",
+      "symbol": "🌅",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The Provisional Government of Free India established in 1943, creating its own military, currency, and administration to liberate the motherland."
+    },
+    {
+      "id": "m9",
+      "category": "M",
+      "name": "Indian National Army (INA)",
+      "points": 4,
+      "ruler": "Subhas Chandra Bose",
+      "rulerId": "subhas_chandra_bose",
+      "rulerName": "Subhas Chandra Bose",
+      "symbol": "🐅",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The heroic Azad Hind Fauj with its brave soldiers and Rani of Jhansi Regiment that fought valiantly on the northeastern frontier for India's independence."
+    },
+    {
+      "id": "r9",
+      "category": "R",
+      "name": "Singapore",
+      "points": 2,
+      "ruler": "Subhas Chandra Bose",
+      "rulerId": "subhas_chandra_bose",
+      "rulerName": "Subhas Chandra Bose",
+      "symbol": "📍",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": null,
+      "historicalDetail": "The historic Southeast Asian hub where Netaji took command of the INA, proclaimed the Azad Hind Government, and sounded the call of 'Dilli Chalo!'."
+    },
+    {
+      "id": "sp1a",
+      "name": "Nathuram Godse — The Assassin",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "⚔️",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Historical Antagonist & Epilogue: The assassin who took the life of Mahatma Gandhi. Not a freedom fighter. Steals all accumulated points from the central Pot."
+    },
+    {
+      "id": "sp1b",
+      "name": "Nathuram Godse — The Assassin",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "⚔️",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Historical Antagonist & Epilogue: The assassin who took the life of Mahatma Gandhi. Not a freedom fighter. Steals all accumulated points from the central Pot."
+    },
+    {
+      "id": "sp1c",
+      "name": "Lord Mountbatten — The Last Viceroy",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "👑",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Colonial Authority: The last British Viceroy who presided over the turbulent partition and transfer of power. Steals all accumulated points from the central Pot."
+    },
+    {
+      "id": "sp1d",
+      "name": "Lord Mountbatten — The Last Viceroy",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "👑",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Colonial Authority: The last British Viceroy who presided over the turbulent partition and transfer of power. Steals all accumulated points from the central Pot."
+    },
+    {
+      "id": "sp2a",
+      "name": "Gandhi's Aadesh — Do or Die",
+      "type": "aadesh",
+      "category": "Special",
+      "symbol": "📜",
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Historic Command: The famous August 1942 mandate of 'Karo ya Maro' (Do or Die). The player commands a category (Leader, Movement, Contribution, or Historical Place). The next player MUST play a matching card or Wild."
+    },
+    {
+      "id": "sp2b",
+      "name": "Gandhi's Aadesh — Do or Die",
+      "type": "aadesh",
+      "category": "Special",
+      "symbol": "📜",
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Historic Command: The famous August 1942 mandate of 'Karo ya Maro' (Do or Die). The player commands a category (Leader, Movement, Contribution, or Historical Place). The next player MUST play a matching card or Wild."
+    },
+    {
+      "id": "sp3a",
+      "name": "Silent Protest",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "🤫",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "Silent Protest: A disciplined non-violent Hartal and peaceful silence. Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp3b",
+      "name": "Silent Protest",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "🤫",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "Silent Protest: A disciplined non-violent Hartal and peaceful silence. Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp3c",
+      "name": "Silent Protest",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "🤫",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "Silent Protest: A disciplined non-violent Hartal and peaceful silence. Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp3d",
+      "name": "Silent Protest",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "🤫",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "Silent Protest: A disciplined non-violent Hartal and peaceful silence. Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp4a",
+      "name": "Revolutionary Turn",
+      "type": "chakravyuha",
+      "category": "Special",
+      "symbol": "🌀",
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "Revolutionary Turn: A dramatic shift in the political tide! Instantly reverses the flow of play (clockwise becomes anticlockwise)."
+    },
+    {
+      "id": "sp4b",
+      "name": "Revolutionary Turn",
+      "type": "chakravyuha",
+      "category": "Special",
+      "symbol": "🌀",
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "Revolutionary Turn: A dramatic shift in the political tide! Instantly reverses the flow of play (clockwise becomes anticlockwise)."
+    },
+    {
+      "id": "sp5a",
+      "name": "Jallianwala Bagh Crisis",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "🛑",
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Crisis: The tragic massacre at Amritsar on Baisakhi 1919 shook India! Forces the next player to respond by playing an R (Historical Place) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "sp5b",
+      "name": "Jallianwala Bagh Crisis",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "🛑",
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Crisis: The tragic massacre at Amritsar on Baisakhi 1919 shook India! Forces the next player to respond by playing an R (Historical Place) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "sp5c",
+      "name": "Colonial Repression",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "⛓️",
+      "points": 0,
+      "effect": "force_movement",
+      "historicalContext": "Crisis: Draconian colonial crackdowns, lathi charges, and repressive ordinances sweep the nation! Forces the next player to respond by playing an Le (Movement / Ideology) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "sp5d",
+      "name": "Colonial Repression",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "⛓️",
+      "points": 0,
+      "effect": "force_movement",
+      "historicalContext": "Crisis: Draconian colonial crackdowns, lathi charges, and repressive ordinances sweep the nation! Forces the next player to respond by playing an Le (Movement / Ideology) card, or draw a penalty card and lose 1 point."
+    }
+  ]
+}

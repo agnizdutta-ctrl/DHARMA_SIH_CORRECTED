@@ -1,0 +1,1073 @@
+{
+  "config": {
+    "totalCards": 52,
+    "handSize": 5,
+    "drawPenalty": -1,
+    "pointsTable": {
+      "C": 8,
+      "L": 6,
+      "M": 4,
+      "R": 2,
+      "Rival": 0,
+      "Special": 0
+    },
+    "roundOptions": [5, 7, 9, 11, 15]
+  },
+  "rulers": [
+    {
+      "id": "babur",
+      "name": "Babur",
+      "reign": "1526–1530",
+      "era": "Founder Era",
+      "father": null,
+      "son": "humayun",
+      "historicalNarrative": "Zahir-ud-din Muhammad Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire after decisively defeating Ibrahim Lodi at the First Battle of Panipat in 1526.",
+      "cards": {
+        "C": {
+          "id": "c_babur",
+          "name": "Babur (The Tiger)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "babur",
+          "rulerName": "Babur",
+          "type": "main",
+          "historicalDetail": "Founder of the Mughal Empire. Victor at the 1st Battle of Panipat (1526) and Khanwa (1527), laying the foundation of three centuries of imperial rule across Hindustan."
+        },
+        "L": {
+          "id": "l_babur",
+          "name": "Matchlock Artillery & Tulughma",
+          "category": "L",
+          "points": 6,
+          "rulerId": "babur",
+          "rulerName": "Babur",
+          "type": "main",
+          "historicalDetail": "Revolutionized Indian warfare by combining Ottoman-style field cannons (topchi) under Ustad Ali Quli with wheeling flank maneuvers (Tulughma) and chained baggage carts (Araba)."
+        },
+        "M": {
+          "id": "m_babur",
+          "name": "Baburnama & Charbagh Gardens",
+          "category": "M",
+          "points": 4,
+          "rulerId": "babur",
+          "rulerName": "Babur",
+          "type": "main",
+          "itemType": "Literature & Architecture",
+          "historicalDetail": "Authored the Baburnama in Chagatai Turkic—a candid, lyrical memoir of conquests, botany, and geography—and created the symmetrical four-quadrant Aram Bagh in Agra."
+        },
+        "R": {
+          "id": "r_babur",
+          "name": "Ferghana Valley & Kabul Subah",
+          "category": "R",
+          "points": 2,
+          "rulerId": "babur",
+          "rulerName": "Babur",
+          "type": "main",
+          "historicalDetail": "His ancestral Central Asian valley in modern Uzbekistan, lost in youth, and the Afghan mountain citadel of Kabul from which he launched his historic march into the plains of Punjab."
+        }
+      }
+    },
+    {
+      "id": "humayun",
+      "name": "Humayun",
+      "reign": "1530–1540, 1555–1556",
+      "era": "Restoration Era",
+      "father": "babur",
+      "son": "akbar",
+      "historicalNarrative": "Nasir-ud-din Muhammad Humayun ('The Fortunate') lost the imperial crown to the Afghan strategist Sher Shah Suri, spent fifteen years in exile, and reclaimed Delhi with Persian Safavid military support.",
+      "cards": {
+        "C": {
+          "id": "c_humayun",
+          "name": "Humayun (The Restorer)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "humayun",
+          "rulerName": "Humayun",
+          "type": "main",
+          "historicalDetail": "Reclaimed the throne of Hindustan at the Battle of Sirhind (1555) with Safavid allies after a harrowing 15-year exile across Rajasthan, Sindh, and Persia."
+        },
+        "L": {
+          "id": "l_humayun",
+          "name": "Persian Court Protocol & Safavid Diplomacy",
+          "category": "L",
+          "points": 6,
+          "rulerId": "humayun",
+          "rulerName": "Humayun",
+          "type": "main",
+          "historicalDetail": "Forged a decisive alliance with Shah Tahmasp I of Persia, importing master painters Mir Sayyid Ali and Abd al-Samad along with sophisticated Persian courtly administration and astronomical sciences."
+        },
+        "M": {
+          "id": "m_humayun",
+          "name": "Din Panah Citadel & Sher Mandal",
+          "category": "M",
+          "points": 4,
+          "rulerId": "humayun",
+          "rulerName": "Humayun",
+          "type": "main",
+          "itemType": "Architecture",
+          "historicalDetail": "Constructed the grand sanctuary city of Din Panah (Purana Qila) overlooking the Yamuna, and established the royal observatory and library at Sher Mandal where he met his untimely death."
+        },
+        "R": {
+          "id": "r_humayun",
+          "name": "Kabul-Ghazni Pass & Sindh Desert",
+          "category": "R",
+          "points": 2,
+          "rulerId": "humayun",
+          "rulerName": "Humayun",
+          "type": "main",
+          "historicalDetail": "The treacherous high-altitude mountain passes and arid Thar deserts traversed during his flight into exile, where his son Akbar was born at Amarkot fortress in 1542."
+        }
+      }
+    },
+    {
+      "id": "akbar",
+      "name": "Akbar",
+      "reign": "1556–1605",
+      "era": "Golden Consolidation Era",
+      "father": "humayun",
+      "son": "jahangir",
+      "historicalNarrative": "Jalal-ud-din Muhammad Akbar transformed the Mughal realm into a pan-Indian empire through military conquests, administrative centralization, Rajput alliances, and the philosophy of Sulh-i-Kul (universal peace).",
+      "cards": {
+        "C": {
+          "id": "c_akbar",
+          "name": "Akbar the Great",
+          "category": "C",
+          "points": 8,
+          "rulerId": "akbar",
+          "rulerName": "Akbar",
+          "type": "main",
+          "historicalDetail": "Crown architect of the Mughal golden age. Victor of 2nd Panipat (1556) who unified Northern India, abolished the pilgrimage tax and Jizya, and fostered interfaith philosophical dialogues."
+        },
+        "L": {
+          "id": "l_akbar",
+          "name": "Mansabdari System & Sulh-i-Kul",
+          "category": "L",
+          "points": 6,
+          "rulerId": "akbar",
+          "rulerName": "Akbar",
+          "type": "main",
+          "historicalDetail": "Structured civil-military ranks into decimal Mansabs (commanding 10 to 10,000 troops) and instituted Sulh-i-Kul (Universal Peace), supported by Todar Mal's revolutionary Zabti revenue system."
+        },
+        "M": {
+          "id": "m_akbar",
+          "name": "Buland Darwaza & Fatehpur Sikri",
+          "category": "M",
+          "points": 4,
+          "rulerId": "akbar",
+          "rulerName": "Akbar",
+          "type": "main",
+          "itemType": "Architecture",
+          "historicalDetail": "Built the red-sandstone capital of Fatehpur Sikri with the world's tallest triumphal arch (54m Buland Darwaza) celebrating the Gujarat conquest, alongside the Ibadat Khana debate hall."
+        },
+        "R": {
+          "id": "r_akbar",
+          "name": "Gujarat & Bengal Subahs",
+          "category": "R",
+          "points": 2,
+          "rulerId": "akbar",
+          "rulerName": "Akbar",
+          "type": "main",
+          "historicalDetail": "Conquered Gujarat in 1573 to control lucrative Arabian Sea trade ports like Surat, and annexed Bengal in 1576, capturing the richest agricultural and textile provinces of the subcontinent."
+        }
+      }
+    },
+    {
+      "id": "jahangir",
+      "name": "Jahangir",
+      "reign": "1605–1627",
+      "era": "Aesthetic & Diplomatic Era",
+      "father": "akbar",
+      "son": "shah_jahan",
+      "historicalNarrative": "Nur-ud-din Muhammad Salim Jahangir ('Conqueror of the World') presided over an era of artistic zenith, diplomatic engagement with European emissaries like Sir Thomas Roe, and a legendary dedication to justice.",
+      "cards": {
+        "C": {
+          "id": "c_jahangir",
+          "name": "Jahangir (Conqueror of the World)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "jahangir",
+          "rulerName": "Jahangir",
+          "type": "main",
+          "historicalDetail": "Fourth Mughal Emperor whose 22-year reign championed courtly connoisseurship, judicial accessibility, European diplomatic treaties, and the influential partnership of Empress Nur Jahan."
+        },
+        "L": {
+          "id": "l_jahangir",
+          "name": "Zanjir-i-Adal (Golden Chain of Justice)",
+          "category": "L",
+          "points": 6,
+          "rulerId": "jahangir",
+          "rulerName": "Jahangir",
+          "type": "main",
+          "historicalDetail": "Installed a 30-meter pure golden chain with 60 brass bells between the Shah Burj in Agra Fort and a stone pillar on the Yamuna riverbank, allowing any oppressed commoner direct appeal to the Emperor."
+        },
+        "M": {
+          "id": "m_jahangir",
+          "name": "Mughal Naturalist Miniatures & Shalimar Bagh",
+          "category": "M",
+          "points": 4,
+          "rulerId": "jahangir",
+          "rulerName": "Jahangir",
+          "type": "main",
+          "itemType": "Art & Gardens",
+          "historicalDetail": "Elevated miniature painting to its highest sophistication with masters like Ustad Mansur and Bishandas, and built the stepped canal paradise gardens of Shalimar and Nishat in Kashmir."
+        },
+        "R": {
+          "id": "r_jahangir",
+          "name": "Kashmir Valley Subah",
+          "category": "R",
+          "points": 2,
+          "rulerId": "jahangir",
+          "rulerName": "Jahangir",
+          "type": "main",
+          "historicalDetail": "Proclaimed the emerald valley 'Paradise on Earth' ('Agar Firdaus bar ruye zamin ast...'), visiting thirteen times to escape Delhi's summer heat and establish over 700 royal garden pavilions."
+        }
+      }
+    },
+    {
+      "id": "shah_jahan",
+      "name": "Shah Jahan",
+      "reign": "1628–1658",
+      "era": "Architectural Zenith Era",
+      "father": "jahangir",
+      "son": "aurangzeb",
+      "historicalNarrative": "Shihab-ud-din Muhammad Khurram Shah Jahan ('King of the World') oversaw the unmatched pinnacle of Mughal architectural symmetry, immense imperial wealth, and monumental marble engineering.",
+      "cards": {
+        "C": {
+          "id": "c_shah_jahan",
+          "name": "Shah Jahan (The Master Builder)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "shah_jahan",
+          "rulerName": "Shah Jahan",
+          "type": "main",
+          "historicalDetail": "Master builder of the Mughal Empire. His 30-year reign produced the world's most celebrated marble monuments, financed by an annual treasury revenue exceeding 220 million silver rupees."
+        },
+        "L": {
+          "id": "l_shah_jahan",
+          "name": "Peacock Throne & Dastur-ul-Amal",
+          "category": "L",
+          "points": 6,
+          "rulerId": "shah_jahan",
+          "rulerName": "Shah Jahan",
+          "type": "main",
+          "historicalDetail": "Commissioned the Takht-i-Taus, encrusted with 1,150 kg of pure gold, 230 kg of precious jewels including the Koh-i-Noor diamond and Timur Ruby, costing double the construction of the Taj Mahal."
+        },
+        "M": {
+          "id": "m_shah_jahan",
+          "name": "Taj Mahal & Red Fort (Delhi)",
+          "category": "M",
+          "points": 4,
+          "rulerId": "shah_jahan",
+          "rulerName": "Shah Jahan",
+          "type": "main",
+          "itemType": "Architecture",
+          "historicalDetail": "Constructed the pristine white Makrana marble mausoleum on the Yamuna for Empress Mumtaz Mahal over 22 years with 20,000 artisans, alongside the red-sandstone citadel of Lal Qila."
+        },
+        "R": {
+          "id": "r_shah_jahan",
+          "name": "Shahjahanabad & Agra Subahs",
+          "category": "R",
+          "points": 2,
+          "rulerId": "shah_jahan",
+          "rulerName": "Shah Jahan",
+          "type": "main",
+          "historicalDetail": "Founded the walled metropolis of Shahjahanabad (Old Delhi) in 1639 with Chandni Chowk and Jama Masjid, shifting the imperial seat of government between Delhi and the marble halls of Agra."
+        }
+      }
+    },
+    {
+      "id": "aurangzeb",
+      "name": "Aurangzeb",
+      "reign": "1658–1707",
+      "era": "Territorial Zenith & Warfare Era",
+      "father": "shah_jahan",
+      "son": "bahadur_shah_i",
+      "historicalNarrative": "Muhi-ud-din Muhammad Aurangzeb Alamgir I ('Conqueror of the Universe') expanded the empire to its absolute zenith across 4 million square kilometers before becoming entangled in the grueling 27-year Deccan Wars.",
+      "cards": {
+        "C": {
+          "id": "c_aurangzeb",
+          "name": "Aurangzeb (Alamgir I)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "aurangzeb",
+          "rulerName": "Aurangzeb",
+          "type": "main",
+          "historicalDetail": "Sixth Mughal Emperor whose military campaigns pushed imperial borders to encompass nearly the entire Indian subcontinent—from Kashmir to Jinji, ruling over 150 million subjects."
+        },
+        "L": {
+          "id": "l_aurangzeb",
+          "name": "Fatawa-e-Alamgiri & Austere Governance",
+          "category": "L",
+          "points": 6,
+          "rulerId": "aurangzeb",
+          "rulerName": "Aurangzeb",
+          "type": "main",
+          "historicalDetail": "Commissioned the monumental 30-volume Hanafi legal code compiled by 500 Islamic jurists, abolished 80 taxes (Abwab), reinstituted Jizya in 1679, and funded his personal expenses by sewing prayer caps."
+        },
+        "M": {
+          "id": "m_aurangzeb",
+          "name": "Badshahi Mosque & Moti Masjid",
+          "category": "M",
+          "points": 4,
+          "rulerId": "aurangzeb",
+          "rulerName": "Aurangzeb",
+          "type": "main",
+          "itemType": "Architecture",
+          "historicalDetail": "Commissioned the colossal Badshahi Mosque in Lahore in 1673—the world's largest mosque for over three centuries—and the exquisite white marble Pearl Mosque (Moti Masjid) within Delhi's Red Fort."
+        },
+        "R": {
+          "id": "r_aurangzeb",
+          "name": "Deccan Plateau (Bijapur & Golconda)",
+          "category": "R",
+          "points": 2,
+          "rulerId": "aurangzeb",
+          "rulerName": "Aurangzeb",
+          "type": "main",
+          "historicalDetail": "Annexed the wealthy Sultanates of Bijapur (1686) and Golconda (1687), waging a 27-year war against Maratha guerrilla forces that exhausted the imperial treasury and strained the empire's army."
+        }
+      }
+    },
+    {
+      "id": "bahadur_shah_i",
+      "name": "Bahadur Shah I",
+      "reign": "1707–1712",
+      "era": "Conciliation & Later Mughal Era",
+      "father": "aurangzeb",
+      "son": "muhammad_shah",
+      "historicalNarrative": "Qutb-ud-din Muhammad Mu'azzam ascended as Bahadur Shah I (Shah Alam I) at age 63 after victory at Jajau. Nicknamed 'Shah-i-Bekhabar' (The Heedless King), he attempted conciliatory compromises with Rajputs, Marathas, and Sikhs.",
+      "cards": {
+        "C": {
+          "id": "c_bahadur_shah_i",
+          "name": "Bahadur Shah I (Shah Alam I)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "bahadur_shah_i",
+          "rulerName": "Bahadur Shah I",
+          "type": "main",
+          "historicalDetail": "Eldest surviving son of Aurangzeb who sought to stabilize a fracturing empire through negotiated truces, releasing Shivaji's grandson Shahu and recognizing Rajput hereditary claims in Amber and Marwar."
+        },
+        "L": {
+          "id": "l_bahadur_shah_i",
+          "name": "Imperial Amnesty & Deccan Chauth Recognition",
+          "category": "L",
+          "points": 6,
+          "rulerId": "bahadur_shah_i",
+          "rulerName": "Bahadur Shah I",
+          "type": "main",
+          "historicalDetail": "Granted Marathas the rights of Chauth and Sardeshmukhi in the Deccan provinces through viceroy Zulfiqar Khan, pardoned rebellious princes, and relaxed strict orthodoxy to avoid civil war."
+        },
+        "M": {
+          "id": "m_bahadur_shah_i",
+          "name": "Shahi Qawwali & Moti Masjid (Mehrauli)",
+          "category": "M",
+          "points": 4,
+          "rulerId": "bahadur_shah_i",
+          "rulerName": "Bahadur Shah I",
+          "type": "main",
+          "itemType": "Architecture & Music",
+          "historicalDetail": "Patronized Sufi gatherings, Qawwali sessions, and constructed the graceful small Moti Masjid within the shrine complex of Sufi saint Qutbuddin Bakhtiyar Kaki at Mehrauli."
+        },
+        "R": {
+          "id": "r_bahadur_shah_i",
+          "name": "Malwa & Khyber Frontier Subahs",
+          "category": "R",
+          "points": 2,
+          "rulerId": "bahadur_shah_i",
+          "rulerName": "Bahadur Shah I",
+          "type": "main",
+          "historicalDetail": "The crucial central Indian transit plateau connecting the Yamuna basin to the Deccan, alongside the turbulent northwestern passes he garrisoned against rising Afghan tribal insurgencies."
+        }
+      }
+    },
+    {
+      "id": "muhammad_shah",
+      "name": "Muhammad Shah",
+      "reign": "1719–1748",
+      "era": "Cultural Renaissance Era",
+      "father": "bahadur_shah_i",
+      "son": "bahadur_shah_zafar",
+      "historicalNarrative": "Roshan Akhtar Muhammad Shah 'Rangeela' ('The Colorful') governed during a complex 29-year epoch characterized by cultural brilliance in music and dance, political decentralization, and the devastating invasion of Nadir Shah in 1739.",
+      "cards": {
+        "C": {
+          "id": "c_muhammad_shah",
+          "name": "Muhammad Shah (Rangeela)",
+          "category": "C",
+          "points": 8,
+          "rulerId": "muhammad_shah",
+          "rulerName": "Muhammad Shah",
+          "type": "main",
+          "historicalDetail": "Ruled for nearly three decades; broke free from the Kingmaker Sayyid Brothers in 1720 and nurtured Delhi's artistic renaissance while semi-autonomous successor states arose in Awadh, Bengal, and Hyderabad."
+        },
+        "L": {
+          "id": "l_muhammad_shah",
+          "name": "Khayal & Tappa Hindustani Music Renaissance",
+          "category": "L",
+          "points": 6,
+          "rulerId": "muhammad_shah",
+          "rulerName": "Muhammad Shah",
+          "type": "main",
+          "historicalDetail": "Revolutionized classical Indian vocal music by patronizing Niyamat Khan (Sadarang) and Firoz Khan (Adarang), formalizing the emotive Khayal style into the dominant form of North Indian classical music."
+        },
+        "M": {
+          "id": "m_muhammad_shah",
+          "name": "Rang Mahal & Shahi Mehfils (Delhi)",
+          "category": "M",
+          "points": 4,
+          "rulerId": "muhammad_shah",
+          "rulerName": "Muhammad Shah",
+          "type": "main",
+          "itemType": "Art & Palace Architecture",
+          "historicalDetail": "Restored the Red Fort's Palace of Colors with intricate mirror-work ceilings, marble lotus fountains (Nahr-i-Bihisht), and hosted nightly musical mehfils celebrating Holi, Eid, and Diwali."
+        },
+        "R": {
+          "id": "r_muhammad_shah",
+          "name": "Awadh & Hyderabad Subahs",
+          "category": "R",
+          "points": 2,
+          "rulerId": "muhammad_shah",
+          "rulerName": "Muhammad Shah",
+          "type": "main",
+          "historicalDetail": "The fabulously wealthy eastern plains under the Nawabs of Awadh and the southern Deccan under Nizam-ul-Mulk Asaf Jah I, which became flourishing cultural successors to imperial Delhi."
+        }
+      }
+    },
+    {
+      "id": "bahadur_shah_zafar",
+      "name": "Bahadur Shah Zafar",
+      "reign": "1837–1857",
+      "era": "Sunset & Twilight Era",
+      "father": "muhammad_shah",
+      "son": null,
+      "historicalNarrative": "Mirza Abu Zafar Siraj-ud-din Muhammad Bahadur Shah Zafar was the twentieth and final Mughal emperor. A renowned Sufi poet and patron of Urdu literature, he was proclaimed the supreme Emperor of Hindustan during the 1857 Uprising.",
+      "cards": {
+        "C": {
+          "id": "c_bahadur_shah_zafar",
+          "name": "Bahadur Shah Zafar",
+          "category": "C",
+          "points": 8,
+          "rulerId": "bahadur_shah_zafar",
+          "rulerName": "Bahadur Shah Zafar",
+          "type": "main",
+          "historicalDetail": "The last Mughal Emperor, mystic, and symbolic sovereign of India's First War of Independence in 1857. Exiled to Burma by British colonial authorities, bringing the 331-year dynasty to its close."
+        },
+        "L": {
+          "id": "l_bahadur_shah_zafar",
+          "name": "Farman-i-Inquilab (Uprising Decrees 1857)",
+          "category": "L",
+          "points": 6,
+          "rulerId": "bahadur_shah_zafar",
+          "rulerName": "Bahadur Shah Zafar",
+          "type": "main",
+          "historicalDetail": "Issued historic royal proclamations rallying Hindu and Muslim soldiers, forbidding cow slaughter in Delhi to preserve communal harmony, and blessing Bakht Khan's revolutionary rebel army."
+        },
+        "M": {
+          "id": "m_bahadur_shah_zafar",
+          "name": "Zafar's Diwan-e-Urdu & Zafar Mahal",
+          "category": "M",
+          "points": 4,
+          "rulerId": "bahadur_shah_zafar",
+          "rulerName": "Bahadur Shah Zafar",
+          "type": "main",
+          "itemType": "Literature & Architecture",
+          "historicalDetail": "Composed four masterwork volumes of Urdu ghazals under the mentorship of poets Mirza Ghalib and Sheikh Ibrahim Zauq, and constructed the red-sandstone Hathi Gate at Zafar Mahal in Mehrauli."
+        },
+        "R": {
+          "id": "r_bahadur_shah_zafar",
+          "name": "Red Fort Enclave & Rangoon Exile",
+          "category": "R",
+          "points": 2,
+          "rulerId": "bahadur_shah_zafar",
+          "rulerName": "Bahadur Shah Zafar",
+          "type": "main",
+          "historicalDetail": "From his ceremonial court inside Delhi's Lal Qila to his tragic exile in a British officer's compound in Rangoon, Burma, where he penned poignant verses yearning for two yards of soil in his beloved homeland."
+        }
+      }
+    }
+  ],
+  "specialCards": [
+    {
+      "id": "shivaji",
+      "name": "Chhatrapati Shivaji Maharaj",
+      "type": "rival",
+      "category": "Rival",
+      "count": 2,
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Founder of the Maratha Empire. Master of Ganimi Kawa (guerrilla tactics) who crowned himself Chhatrapati at Raigad (1674), raided Mughal Surat, escaped Aurangzeb's captivity at Agra, and repeatedly seized imperial caravans."
+    },
+    {
+      "id": "maharana_pratap",
+      "name": "Maharana Pratap of Mewar",
+      "type": "rival",
+      "category": "Rival",
+      "count": 2,
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "Legendary Rajput ruler of Mewar who defied the full might of Akbar's imperial army at the Battle of Haldighati (1576) riding his faithful warhorse Chetak, reclaiming western Mewar through guerrilla warfare from the Aravalli hills."
+    },
+    {
+      "id": "aadesh",
+      "name": "Aadesh (Command)",
+      "type": "aadesh",
+      "category": "Special",
+      "count": 2,
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Imperial Farman. When played, the player must declare a category (C, L, M, or R). The Aadesh card sits on top of the chain with the declared category displayed. The next player MUST play a card of that category OR play another Wild."
+    },
+    {
+      "id": "mouna",
+      "name": "Mouna (Skip)",
+      "type": "mouna",
+      "category": "Special",
+      "count": 4,
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "The next player loses their turn entirely. They must also draw 1 card and lose 1 point."
+    },
+    {
+      "id": "chakravyuha",
+      "name": "Chakravyuha (Reverse)",
+      "type": "chakravyuha",
+      "category": "Special",
+      "count": 2,
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "The turn order reverses. If it was clockwise, it becomes anticlockwise. If anticlockwise, it becomes clockwise. In a 2-player game, this card has no effect."
+    },
+    {
+      "id": "crisis_famine",
+      "name": "Crisis: Famine",
+      "type": "crisis",
+      "category": "Special",
+      "count": 2,
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Forces the next player either to play a Region (R) card or if not available must draw a card and lose one point."
+    },
+    {
+      "id": "crisis_nadir",
+      "name": "Crisis: Nadir Shah",
+      "type": "crisis",
+      "category": "Special",
+      "count": 2,
+      "points": 0,
+      "effect": "force_marvel",
+      "historicalContext": "Forces the next player either to play a Marvel (M) card or if not available must draw a card and lose one point."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c_babur",
+      "name": "Babur (The Tiger)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "babur",
+      "rulerName": "Babur",
+      "type": "main",
+      "historicalDetail": "Founder of the Mughal Empire. Victor at the 1st Battle of Panipat (1526) and Khanwa (1527), laying the foundation of three centuries of imperial rule across Hindustan."
+    },
+    {
+      "id": "l_babur",
+      "name": "Matchlock Artillery & Tulughma",
+      "category": "L",
+      "points": 6,
+      "rulerId": "babur",
+      "rulerName": "Babur",
+      "type": "main",
+      "historicalDetail": "Revolutionized Indian warfare by combining Ottoman-style field cannons (topchi) under Ustad Ali Quli with wheeling flank maneuvers (Tulughma) and chained baggage carts (Araba)."
+    },
+    {
+      "id": "m_babur",
+      "name": "Baburnama & Charbagh Gardens",
+      "category": "M",
+      "points": 4,
+      "rulerId": "babur",
+      "rulerName": "Babur",
+      "type": "main",
+      "itemType": "Literature & Architecture",
+      "historicalDetail": "Authored the Baburnama in Chagatai Turkic—a candid, lyrical memoir of conquests, botany, and geography—and created the symmetrical four-quadrant Aram Bagh in Agra."
+    },
+    {
+      "id": "r_babur",
+      "name": "Ferghana Valley & Kabul Subah",
+      "category": "R",
+      "points": 2,
+      "rulerId": "babur",
+      "rulerName": "Babur",
+      "type": "main",
+      "historicalDetail": "His ancestral Central Asian valley in modern Uzbekistan, lost in youth, and the Afghan mountain citadel of Kabul from which he launched his historic march into the plains of Punjab."
+    },
+    {
+      "id": "c_humayun",
+      "name": "Humayun (The Restorer)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "humayun",
+      "rulerName": "Humayun",
+      "type": "main",
+      "historicalDetail": "Reclaimed the throne of Hindustan at the Battle of Sirhind (1555) with Safavid allies after a harrowing 15-year exile across Rajasthan, Sindh, and Persia."
+    },
+    {
+      "id": "l_humayun",
+      "name": "Persian Court Protocol & Safavid Diplomacy",
+      "category": "L",
+      "points": 6,
+      "rulerId": "humayun",
+      "rulerName": "Humayun",
+      "type": "main",
+      "historicalDetail": "Forged a decisive alliance with Shah Tahmasp I of Persia, importing master painters Mir Sayyid Ali and Abd al-Samad along with sophisticated Persian courtly administration and astronomical sciences."
+    },
+    {
+      "id": "m_humayun",
+      "name": "Din Panah Citadel & Sher Mandal",
+      "category": "M",
+      "points": 4,
+      "rulerId": "humayun",
+      "rulerName": "Humayun",
+      "type": "main",
+      "itemType": "Architecture",
+      "historicalDetail": "Constructed the grand sanctuary city of Din Panah (Purana Qila) overlooking the Yamuna, and established the royal observatory and library at Sher Mandal where he met his untimely death."
+    },
+    {
+      "id": "r_humayun",
+      "name": "Kabul-Ghazni Pass & Sindh Desert",
+      "category": "R",
+      "points": 2,
+      "rulerId": "humayun",
+      "rulerName": "Humayun",
+      "type": "main",
+      "historicalDetail": "The treacherous high-altitude mountain passes and arid Thar deserts traversed during his flight into exile, where his son Akbar was born at Amarkot fortress in 1542."
+    },
+    {
+      "id": "c_akbar",
+      "name": "Akbar the Great",
+      "category": "C",
+      "points": 8,
+      "rulerId": "akbar",
+      "rulerName": "Akbar",
+      "type": "main",
+      "historicalDetail": "Crown architect of the Mughal golden age. Victor of 2nd Panipat (1556) who unified Northern India, abolished the pilgrimage tax and Jizya, and fostered interfaith philosophical dialogues."
+    },
+    {
+      "id": "l_akbar",
+      "name": "Mansabdari System & Sulh-i-Kul",
+      "category": "L",
+      "points": 6,
+      "rulerId": "akbar",
+      "rulerName": "Akbar",
+      "type": "main",
+      "historicalDetail": "Structured civil-military ranks into decimal Mansabs (commanding 10 to 10,000 troops) and instituted Sulh-i-Kul (Universal Peace), supported by Todar Mal's revolutionary Zabti revenue system."
+    },
+    {
+      "id": "m_akbar",
+      "name": "Buland Darwaza & Fatehpur Sikri",
+      "category": "M",
+      "points": 4,
+      "rulerId": "akbar",
+      "rulerName": "Akbar",
+      "type": "main",
+      "itemType": "Architecture",
+      "historicalDetail": "Built the red-sandstone capital of Fatehpur Sikri with the world's tallest triumphal arch (54m Buland Darwaza) celebrating the Gujarat conquest, alongside the Ibadat Khana debate hall."
+    },
+    {
+      "id": "r_akbar",
+      "name": "Gujarat & Bengal Subahs",
+      "category": "R",
+      "points": 2,
+      "rulerId": "akbar",
+      "rulerName": "Akbar",
+      "type": "main",
+      "historicalDetail": "Conquered Gujarat in 1573 to control lucrative Arabian Sea trade ports like Surat, and annexed Bengal in 1576, capturing the richest agricultural and textile provinces of the subcontinent."
+    },
+    {
+      "id": "c_jahangir",
+      "name": "Jahangir (Conqueror of the World)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "jahangir",
+      "rulerName": "Jahangir",
+      "type": "main",
+      "historicalDetail": "Fourth Mughal Emperor whose 22-year reign championed courtly connoisseurship, judicial accessibility, European diplomatic treaties, and the influential partnership of Empress Nur Jahan."
+    },
+    {
+      "id": "l_jahangir",
+      "name": "Zanjir-i-Adal (Golden Chain of Justice)",
+      "category": "L",
+      "points": 6,
+      "rulerId": "jahangir",
+      "rulerName": "Jahangir",
+      "type": "main",
+      "historicalDetail": "Installed a 30-meter pure golden chain with 60 brass bells between the Shah Burj in Agra Fort and a stone pillar on the Yamuna riverbank, allowing any oppressed commoner direct appeal to the Emperor."
+    },
+    {
+      "id": "m_jahangir",
+      "name": "Mughal Naturalist Miniatures & Shalimar Bagh",
+      "category": "M",
+      "points": 4,
+      "rulerId": "jahangir",
+      "rulerName": "Jahangir",
+      "type": "main",
+      "itemType": "Art & Gardens",
+      "historicalDetail": "Elevated miniature painting to its highest sophistication with masters like Ustad Mansur and Bishandas, and built the stepped canal paradise gardens of Shalimar and Nishat in Kashmir."
+    },
+    {
+      "id": "r_jahangir",
+      "name": "Kashmir Valley Subah",
+      "category": "R",
+      "points": 2,
+      "rulerId": "jahangir",
+      "rulerName": "Jahangir",
+      "type": "main",
+      "historicalDetail": "Proclaimed the emerald valley 'Paradise on Earth' ('Agar Firdaus bar ruye zamin ast...'), visiting thirteen times to escape Delhi's summer heat and establish over 700 royal garden pavilions."
+    },
+    {
+      "id": "c_shah_jahan",
+      "name": "Shah Jahan (The Master Builder)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "shah_jahan",
+      "rulerName": "Shah Jahan",
+      "type": "main",
+      "historicalDetail": "Master builder of the Mughal Empire. His 30-year reign produced the world's most celebrated marble monuments, financed by an annual treasury revenue exceeding 220 million silver rupees."
+    },
+    {
+      "id": "l_shah_jahan",
+      "name": "Peacock Throne & Dastur-ul-Amal",
+      "category": "L",
+      "points": 6,
+      "rulerId": "shah_jahan",
+      "rulerName": "Shah Jahan",
+      "type": "main",
+      "historicalDetail": "Commissioned the Takht-i-Taus, encrusted with 1,150 kg of pure gold, 230 kg of precious jewels including the Koh-i-Noor diamond and Timur Ruby, costing double the construction of the Taj Mahal."
+    },
+    {
+      "id": "m_shah_jahan",
+      "name": "Taj Mahal & Red Fort (Delhi)",
+      "category": "M",
+      "points": 4,
+      "rulerId": "shah_jahan",
+      "rulerName": "Shah Jahan",
+      "type": "main",
+      "itemType": "Architecture",
+      "historicalDetail": "Constructed the pristine white Makrana marble mausoleum on the Yamuna for Empress Mumtaz Mahal over 22 years with 20,000 artisans, alongside the red-sandstone citadel of Lal Qila."
+    },
+    {
+      "id": "r_shah_jahan",
+      "name": "Shahjahanabad & Agra Subahs",
+      "category": "R",
+      "points": 2,
+      "rulerId": "shah_jahan",
+      "rulerName": "Shah Jahan",
+      "type": "main",
+      "historicalDetail": "Founded the walled metropolis of Shahjahanabad (Old Delhi) in 1639 with Chandni Chowk and Jama Masjid, shifting the imperial seat of government between Delhi and the marble halls of Agra."
+    },
+    {
+      "id": "c_aurangzeb",
+      "name": "Aurangzeb (Alamgir I)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "aurangzeb",
+      "rulerName": "Aurangzeb",
+      "type": "main",
+      "historicalDetail": "Sixth Mughal Emperor whose military campaigns pushed imperial borders to encompass nearly the entire Indian subcontinent—from Kashmir to Jinji, ruling over 150 million subjects."
+    },
+    {
+      "id": "l_aurangzeb",
+      "name": "Fatawa-e-Alamgiri & Austere Governance",
+      "category": "L",
+      "points": 6,
+      "rulerId": "aurangzeb",
+      "rulerName": "Aurangzeb",
+      "type": "main",
+      "historicalDetail": "Commissioned the monumental 30-volume Hanafi legal code compiled by 500 Islamic jurists, abolished 80 taxes (Abwab), reinstituted Jizya in 1679, and funded his personal expenses by sewing prayer caps."
+    },
+    {
+      "id": "m_aurangzeb",
+      "name": "Badshahi Mosque & Moti Masjid",
+      "category": "M",
+      "points": 4,
+      "rulerId": "aurangzeb",
+      "rulerName": "Aurangzeb",
+      "type": "main",
+      "itemType": "Architecture",
+      "historicalDetail": "Commissioned the colossal Badshahi Mosque in Lahore in 1673—the world's largest mosque for over three centuries—and the exquisite white marble Pearl Mosque (Moti Masjid) within Delhi's Red Fort."
+    },
+    {
+      "id": "r_aurangzeb",
+      "name": "Deccan Plateau (Bijapur & Golconda)",
+      "category": "R",
+      "points": 2,
+      "rulerId": "aurangzeb",
+      "rulerName": "Aurangzeb",
+      "type": "main",
+      "historicalDetail": "Annexed the wealthy Sultanates of Bijapur (1686) and Golconda (1687), waging a 27-year war against Maratha guerrilla forces that exhausted the imperial treasury and strained the empire's army."
+    },
+    {
+      "id": "c_bahadur_shah_i",
+      "name": "Bahadur Shah I (Shah Alam I)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "bahadur_shah_i",
+      "rulerName": "Bahadur Shah I",
+      "type": "main",
+      "historicalDetail": "Eldest surviving son of Aurangzeb who sought to stabilize a fracturing empire through negotiated truces, releasing Shivaji's grandson Shahu and recognizing Rajput hereditary claims in Amber and Marwar."
+    },
+    {
+      "id": "l_bahadur_shah_i",
+      "name": "Imperial Amnesty & Deccan Chauth Recognition",
+      "category": "L",
+      "points": 6,
+      "rulerId": "bahadur_shah_i",
+      "rulerName": "Bahadur Shah I",
+      "type": "main",
+      "historicalDetail": "Granted Marathas the rights of Chauth and Sardeshmukhi in the Deccan provinces through viceroy Zulfiqar Khan, pardoned rebellious princes, and relaxed strict orthodoxy to avoid civil war."
+    },
+    {
+      "id": "m_bahadur_shah_i",
+      "name": "Shahi Qawwali & Moti Masjid (Mehrauli)",
+      "category": "M",
+      "points": 4,
+      "rulerId": "bahadur_shah_i",
+      "rulerName": "Bahadur Shah I",
+      "type": "main",
+      "itemType": "Architecture & Music",
+      "historicalDetail": "Patronized Sufi gatherings, Qawwali sessions, and constructed the graceful small Moti Masjid within the shrine complex of Sufi saint Qutbuddin Bakhtiyar Kaki at Mehrauli."
+    },
+    {
+      "id": "r_bahadur_shah_i",
+      "name": "Malwa & Khyber Frontier Subahs",
+      "category": "R",
+      "points": 2,
+      "rulerId": "bahadur_shah_i",
+      "rulerName": "Bahadur Shah I",
+      "type": "main",
+      "historicalDetail": "The crucial central Indian transit plateau connecting the Yamuna basin to the Deccan, alongside the turbulent northwestern passes he garrisoned against rising Afghan tribal insurgencies."
+    },
+    {
+      "id": "c_muhammad_shah",
+      "name": "Muhammad Shah (Rangeela)",
+      "category": "C",
+      "points": 8,
+      "rulerId": "muhammad_shah",
+      "rulerName": "Muhammad Shah",
+      "type": "main",
+      "historicalDetail": "Ruled for nearly three decades; broke free from the Kingmaker Sayyid Brothers in 1720 and nurtured Delhi's artistic renaissance while semi-autonomous successor states arose in Awadh, Bengal, and Hyderabad."
+    },
+    {
+      "id": "l_muhammad_shah",
+      "name": "Khayal & Tappa Hindustani Music Renaissance",
+      "category": "L",
+      "points": 6,
+      "rulerId": "muhammad_shah",
+      "rulerName": "Muhammad Shah",
+      "type": "main",
+      "historicalDetail": "Revolutionized classical Indian vocal music by patronizing Niyamat Khan (Sadarang) and Firoz Khan (Adarang), formalizing the emotive Khayal style into the dominant form of North Indian classical music."
+    },
+    {
+      "id": "m_muhammad_shah",
+      "name": "Rang Mahal & Shahi Mehfils (Delhi)",
+      "category": "M",
+      "points": 4,
+      "rulerId": "muhammad_shah",
+      "rulerName": "Muhammad Shah",
+      "type": "main",
+      "itemType": "Art & Palace Architecture",
+      "historicalDetail": "Restored the Red Fort's Palace of Colors with intricate mirror-work ceilings, marble lotus fountains (Nahr-i-Bihisht), and hosted nightly musical mehfils celebrating Holi, Eid, and Diwali."
+    },
+    {
+      "id": "r_muhammad_shah",
+      "name": "Awadh & Hyderabad Subahs",
+      "category": "R",
+      "points": 2,
+      "rulerId": "muhammad_shah",
+      "rulerName": "Muhammad Shah",
+      "type": "main",
+      "historicalDetail": "The fabulously wealthy eastern plains under the Nawabs of Awadh and the southern Deccan under Nizam-ul-Mulk Asaf Jah I, which became flourishing cultural successors to imperial Delhi."
+    },
+    {
+      "id": "c_bahadur_shah_zafar",
+      "name": "Bahadur Shah Zafar",
+      "category": "C",
+      "points": 8,
+      "rulerId": "bahadur_shah_zafar",
+      "rulerName": "Bahadur Shah Zafar",
+      "type": "main",
+      "historicalDetail": "The last Mughal Emperor, mystic, and symbolic sovereign of India's First War of Independence in 1857. Exiled to Burma by British colonial authorities, bringing the 331-year dynasty to its close."
+    },
+    {
+      "id": "l_bahadur_shah_zafar",
+      "name": "Farman-i-Inquilab (Uprising Decrees 1857)",
+      "category": "L",
+      "points": 6,
+      "rulerId": "bahadur_shah_zafar",
+      "rulerName": "Bahadur Shah Zafar",
+      "type": "main",
+      "historicalDetail": "Issued historic royal proclamations rallying Hindu and Muslim soldiers, forbidding cow slaughter in Delhi to preserve communal harmony, and blessing Bakht Khan's revolutionary rebel army."
+    },
+    {
+      "id": "m_bahadur_shah_zafar",
+      "name": "Zafar's Diwan-e-Urdu & Zafar Mahal",
+      "category": "M",
+      "points": 4,
+      "rulerId": "bahadur_shah_zafar",
+      "rulerName": "Bahadur Shah Zafar",
+      "type": "main",
+      "itemType": "Literature & Architecture",
+      "historicalDetail": "Composed four masterwork volumes of Urdu ghazals under the mentorship of poets Mirza Ghalib and Sheikh Ibrahim Zauq, and constructed the red-sandstone Hathi Gate at Zafar Mahal in Mehrauli."
+    },
+    {
+      "id": "r_bahadur_shah_zafar",
+      "name": "Red Fort Enclave & Rangoon Exile",
+      "category": "R",
+      "points": 2,
+      "rulerId": "bahadur_shah_zafar",
+      "rulerName": "Bahadur Shah Zafar",
+      "type": "main",
+      "historicalDetail": "From his ceremonial court inside Delhi's Lal Qila to his tragic exile in a British officer's compound in Rangoon, Burma, where he penned poignant verses yearning for two yards of soil in his beloved homeland."
+    },
+    {
+      "id": "shivaji_1",
+      "name": "Chhatrapati Shivaji Maharaj (Card I)",
+      "category": "Rival",
+      "points": 0,
+      "type": "rival",
+      "effect": "steal_pot",
+      "historicalContext": "Founder of the Maratha Empire. Master of Ganimi Kawa (guerrilla tactics) who crowned himself Chhatrapati at Raigad (1674), raided Mughal Surat, escaped Aurangzeb's captivity at Agra, and repeatedly seized imperial caravans."
+    },
+    {
+      "id": "shivaji_2",
+      "name": "Chhatrapati Shivaji Maharaj (Card II)",
+      "category": "Rival",
+      "points": 0,
+      "type": "rival",
+      "effect": "steal_pot",
+      "historicalContext": "The lion of the Deccan who built a formidable navy and hill fortress network (Pratapgad, Rajgad), establishing Hindavi Swarajya and claiming the entire imperial treasury pot in a daring raid."
+    },
+    {
+      "id": "maharana_pratap_1",
+      "name": "Maharana Pratap of Mewar (Card I)",
+      "category": "Rival",
+      "points": 0,
+      "type": "rival",
+      "effect": "steal_pot",
+      "historicalContext": "Legendary Rajput ruler of Mewar who defied the full might of Akbar's imperial army at the Battle of Haldighati (1576) riding his faithful warhorse Chetak, reclaiming western Mewar through guerrilla warfare from the Aravalli hills."
+    },
+    {
+      "id": "maharana_pratap_2",
+      "name": "Maharana Pratap of Mewar (Card II)",
+      "category": "Rival",
+      "points": 0,
+      "type": "rival",
+      "effect": "steal_pot",
+      "historicalContext": "Symbol of unwavering Rajput sovereignty who refused imperial subjugation, lived in the wilderness of Kumbhalgarh and Chavand, and repeatedly raided imperial outposts."
+    },
+    {
+      "id": "maha_karma_1",
+      "name": "Maha-Karma: Cosmic Retribution (Card I)",
+      "category": "Special",
+      "points": 0,
+      "type": "mahaKarma",
+      "effect": "steal_last_card",
+      "historicalContext": "The cosmic cycle of moral retribution in Indian philosophy. When invoked in court, unbridled hubris meets sovereign reversal: the player seizes the opponent's most recent prize into their hand."
+    },
+    {
+      "id": "maha_karma_2",
+      "name": "Maha-Karma: Cosmic Retribution (Card II)",
+      "category": "Special",
+      "points": 0,
+      "type": "mahaKarma",
+      "effect": "steal_last_card",
+      "historicalContext": "The universal wheel of Dharma. What was captured by force is reclaimed through righteous karma, transferring the adversary's triumph directly to the player."
+    },
+    {
+      "id": "mouna_1",
+      "name": "Mouna: Imperial Silence (Card I)",
+      "category": "Special",
+      "points": 0,
+      "type": "mouna",
+      "effect": "skip_next",
+      "historicalContext": "'Mouna' denotes strategic royal silence. In Mughal statecraft, issuing a royal decree of silence silenced court factions and immediately skipped the next rival's turn in court."
+    },
+    {
+      "id": "mouna_2",
+      "name": "Mouna: Imperial Silence (Card II)",
+      "category": "Special",
+      "points": 0,
+      "type": "mouna",
+      "effect": "skip_next",
+      "historicalContext": "Enforced silence during an imperial Diwan-i-Khas gathering halts all deliberations, forcing the opponent to forfeit their initiative."
+    },
+    {
+      "id": "mouna_3",
+      "name": "Mouna: Imperial Silence (Card III)",
+      "category": "Special",
+      "points": 0,
+      "type": "mouna",
+      "effect": "skip_next",
+      "historicalContext": "Diplomatic paralysis imposed upon rival courtiers. The next player is silenced and must pass without placing a card."
+    },
+    {
+      "id": "mouna_4",
+      "name": "Mouna: Imperial Silence (Card IV)",
+      "category": "Special",
+      "points": 0,
+      "type": "mouna",
+      "effect": "skip_next",
+      "historicalContext": "The sovereign gesture of raising the royal scepter to silence dissent, skipping the immediate contender."
+    },
+    {
+      "id": "chakravyuha_1",
+      "name": "Chakravyuha: Formation Reversal (Card I)",
+      "category": "Special",
+      "points": 0,
+      "type": "chakravyuha",
+      "effect": "reverse_order",
+      "historicalContext": "The legendary multi-tiered circular defensive formation from ancient Vedic military treatises. Inverting diplomatic momentum, it instantly reverses the direction of play around the court."
+    },
+    {
+      "id": "chakravyuha_2",
+      "name": "Chakravyuha: Formation Reversal (Card II)",
+      "category": "Special",
+      "points": 0,
+      "type": "chakravyuha",
+      "effect": "reverse_order",
+      "historicalContext": "A labyrinthine deployment of cavalry and elephant guards that confuses oncoming ranks and forces the battle's momentum to pivot in the opposite direction."
+    },
+    {
+      "id": "crisis_famine_1",
+      "name": "Crisis: The Deccan Famine 1630 (Card I)",
+      "category": "Special",
+      "points": 0,
+      "type": "crisis",
+      "effect": "nullify_region",
+      "historicalContext": "A catastrophic three-year monsoon failure devastated Gujarat and the Deccan during Shah Jahan's early reign, depleting agricultural revenues and wiping out provincial Subahs across the peninsula."
+    },
+    {
+      "id": "crisis_famine_2",
+      "name": "Crisis: The Deccan Famine 1630 (Card II)",
+      "category": "Special",
+      "points": 0,
+      "type": "crisis",
+      "effect": "nullify_region",
+      "historicalContext": "Severe economic devastation that shattered trade routes and revenue collections across the southern provinces, nullifying any targeted Region (R) card in the dynastic chain."
+    },
+    {
+      "id": "crisis_nadir_1",
+      "name": "Crisis: Nadir Shah's Sack of Delhi 1739 (Card I)",
+      "category": "Special",
+      "points": 0,
+      "type": "crisis",
+      "effect": "nullify_marvel",
+      "historicalContext": "The Persian conqueror Nadir Shah routed imperial forces at Karnal and sacked Delhi for 57 days, plundering the Peacock Throne, Koh-i-Noor, and Darya-i-Noor, leaving Mughal imperial monuments devastated."
+    },
+    {
+      "id": "crisis_nadir_2",
+      "name": "Crisis: Nadir Shah's Sack of Delhi 1739 (Card II)",
+      "category": "Special",
+      "points": 0,
+      "type": "crisis",
+      "effect": "nullify_marvel",
+      "historicalContext": "The devastation and despoiling of the imperial capital's wonders, stripping wealth and prestige from any targeted Marvel (M) card in the court chain."
+    }
+  ]
+}

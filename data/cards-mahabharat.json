@@ -1,0 +1,1210 @@
+{
+  "config": {
+    "totalCards": 52,
+    "handSize": 5,
+    "drawPenalty": -1,
+    "pointsTable": {
+      "C": 8,
+      "L": 6,
+      "M": 4,
+      "R": 2,
+      "Rival": 0,
+      "Special": 0
+    },
+    "roundOptions": [
+      5,
+      7,
+      9,
+      11,
+      15
+    ]
+  },
+  "rulers": [
+    {
+      "id": "krishna",
+      "name": "Krishna",
+      "era": "Dvapara Yuga \u00b7 Yadava Dynasty",
+      "father": null,
+      "son": null,
+      "kinship": "Allied to Pandavas \u00b7 Charioteer of Arjuna",
+      "historicalNarrative": "Lord Krishna of Dwaraka, master strategist, diplomat, and divine guide of the Pandavas, whose philosophical exposition of the Bhagavad Gita on the battlefield of Kurukshetra revealed the eternal truths of Nishkama Karma and Dharma.",
+      "cards": {
+        "C": {
+          "id": "c1",
+          "name": "Krishna",
+          "category": "C",
+          "points": 8,
+          "rulerId": "krishna",
+          "rulerName": "Krishna",
+          "symbol": "\ud83e\udd9a",
+          "type": "main",
+          "immediateFather": null,
+          "immediateSon": "Arjuna (Kin)",
+          "historicalDetail": "The Supreme Guide and avatar of Vishnu who established righteousness. Master diplomat at the Hastinapura peace embassy and charioteer to Arjuna at Kurukshetra."
+        },
+        "L": {
+          "id": "l1",
+          "name": "Krishna's Counsel \u2014 Krishna",
+          "category": "L",
+          "points": 6,
+          "rulerId": "krishna",
+          "rulerName": "Krishna",
+          "symbol": "\ud83d\udcdc",
+          "type": "main",
+          "historicalDetail": "The immortal moral and strategic wisdom imparted by Krishna\u2014guiding Yudhishthira toward righteousness and counselling the warrior princes through the darkest tribulations."
+        },
+        "M": {
+          "id": "m1",
+          "name": "Sudarshana Chakra",
+          "category": "M",
+          "points": 4,
+          "rulerId": "krishna",
+          "rulerName": "Krishna",
+          "symbol": "\u2638\ufe0f",
+          "type": "main",
+          "itemType": "Divine Astra",
+          "historicalDetail": "The supreme spinning discus of cosmic fire, bearing 108 serrated edges, capable of cleaving any defense and upholding Dharma across all three worlds."
+        },
+        "R": {
+          "id": "r1",
+          "name": "Dwaraka",
+          "category": "R",
+          "points": 2,
+          "rulerId": "krishna",
+          "rulerName": "Krishna",
+          "symbol": "\ud83c\udf0a",
+          "type": "main",
+          "historicalDetail": "The submerged golden citadel on the western sea, built by Vishwakarma with ramparts of gold and crystalline towers, sanctuary of the Vrishnis and Yadavas."
+        }
+      }
+    },
+    {
+      "id": "yudhishthira",
+      "name": "Yudhishthira",
+      "era": "Dvapara Yuga \u00b7 Kuru Dynasty",
+      "father": null,
+      "son": null,
+      "kinship": "Eldest Pandava \u00b7 Son of Dharma",
+      "historicalNarrative": "Eldest son of Kunti and King Pandu, born by the blessing of Dharma (Yama). Revered for unshakeable adherence to truth, justice, and the righteous administration of the realm.",
+      "cards": {
+        "C": {
+          "id": "c2",
+          "name": "Yudhishthira",
+          "category": "C",
+          "points": 8,
+          "rulerId": "yudhishthira",
+          "rulerName": "Yudhishthira",
+          "symbol": "\ud83d\udc51",
+          "type": "main",
+          "immediateFather": "Dharma",
+          "immediateSon": "Bhima (Brother)",
+          "historicalDetail": "Dharmaraja, crowned King of Indraprastha and Hastinapura. Victor of the Rajasuya sacrifice whose devotion to truth guided the Pandavas through exile and war."
+        },
+        "L": {
+          "id": "l2",
+          "name": "Rajadharma \u2014 Yudhishthira",
+          "category": "L",
+          "points": 6,
+          "rulerId": "yudhishthira",
+          "rulerName": "Yudhishthira",
+          "symbol": "\u2696\ufe0f",
+          "type": "main",
+          "historicalDetail": "The noble principles of righteous kingship: compassion toward subjects, protection of the vulnerable, and adherence to moral duty even in the face of ruin."
+        },
+        "M": {
+          "id": "m2",
+          "name": "Akshaya Patra",
+          "category": "M",
+          "points": 4,
+          "rulerId": "yudhishthira",
+          "rulerName": "Yudhishthira",
+          "symbol": "\ud83c\udf72",
+          "type": "main",
+          "itemType": "Sacred Vessel",
+          "historicalDetail": "The inexhaustible copper vessel bestowed by Surya the Sun God to Yudhishthira during forest exile, providing endless divine sustenance until Draupadi finished her meal."
+        },
+        "R": {
+          "id": "r2",
+          "name": "Indraprastha",
+          "category": "R",
+          "points": 2,
+          "rulerId": "yudhishthira",
+          "rulerName": "Yudhishthira",
+          "symbol": "\ud83c\udff0",
+          "type": "main",
+          "historicalDetail": "The resplendent capital founded by the Pandavas in the cleared Khandava tract, renowned for wide avenues, moated fortifications, and celestial splendor."
+        }
+      }
+    },
+    {
+      "id": "bhima",
+      "name": "Bhima",
+      "era": "Dvapara Yuga \u00b7 Kuru Dynasty",
+      "father": null,
+      "son": null,
+      "kinship": "Second Pandava \u00b7 Son of Vayu",
+      "historicalNarrative": "The mighty second Pandava blessed with the strength of ten thousand elephants, hero of wrestling bouts, and fearless punisher of tyranny who avenged the humiliation of Draupadi.",
+      "cards": {
+        "C": {
+          "id": "c3",
+          "name": "Bhima",
+          "category": "C",
+          "points": 8,
+          "rulerId": "bhima",
+          "rulerName": "Bhima",
+          "symbol": "\ud83d\udc2f",
+          "type": "main",
+          "immediateFather": "Yudhishthira (Elder)",
+          "immediateSon": "Arjuna (Brother)",
+          "historicalDetail": "The indomitable warrior possessing unmatched colossal strength. Slaying Jarasandha, Kichaka, and Dushasana, he fulfilled every vow with unrelenting valor."
+        },
+        "L": {
+          "id": "l3",
+          "name": "Bhima's Vow \u2014 Bhima",
+          "category": "L",
+          "points": 6,
+          "rulerId": "bhima",
+          "rulerName": "Bhima",
+          "symbol": "\ud83d\udd25",
+          "type": "main",
+          "historicalDetail": "The unbreakable warrior oath sworn in the royal court to protect righteousness, destroy the oppressors, and wash Draupadi's unbound hair with the blood of justice."
+        },
+        "M": {
+          "id": "m3",
+          "name": "Kaumodaki Gada",
+          "category": "M",
+          "points": 4,
+          "rulerId": "bhima",
+          "rulerName": "Bhima",
+          "symbol": "\ud83d\udd28",
+          "type": "main",
+          "itemType": "Legendary Mace",
+          "historicalDetail": "The thunderous divine mace crafted of celestial gold and meteor iron, swinging with the force of mountain storms to shatter iron armor and chariot walls."
+        },
+        "R": {
+          "id": "r3",
+          "name": "Magadha",
+          "category": "R",
+          "points": 2,
+          "rulerId": "bhima",
+          "rulerName": "Bhima",
+          "symbol": "\u26f0\ufe0f",
+          "type": "main",
+          "historicalDetail": "The ancient fortress realm of Girivraja, surrounded by five jagged hills, where Bhima engaged the formidable King Jarasandha in a historic fourteen-day wrestling duel."
+        }
+      }
+    },
+    {
+      "id": "arjuna",
+      "name": "Arjuna",
+      "era": "Dvapara Yuga \u00b7 Kuru Dynasty",
+      "father": null,
+      "son": null,
+      "kinship": "Third Pandava \u00b7 Son of Indra",
+      "historicalNarrative": "The supreme archer of the Mahabharata, disciple of Drona, beloved companion of Krishna, and recipient of the celestial Bhagavad Gita on the battlefield of Kurukshetra.",
+      "cards": {
+        "C": {
+          "id": "c4",
+          "name": "Arjuna",
+          "category": "C",
+          "points": 8,
+          "rulerId": "arjuna",
+          "rulerName": "Arjuna",
+          "symbol": "\ud83c\udff9",
+          "type": "main",
+          "immediateFather": "Bhima (Elder)",
+          "immediateSon": "Abhimanyu (Son)",
+          "historicalDetail": "The legendary warrior of focused sight who won Draupadi at the swayamvara, vanquished the Nivatakavachas, and turned the tide of the great Kurukshetra war."
+        },
+        "L": {
+          "id": "l4",
+          "name": "Arjuna's Duty \u2014 Arjuna",
+          "category": "L",
+          "points": 6,
+          "rulerId": "arjuna",
+          "rulerName": "Arjuna",
+          "symbol": "\ud83d\udee1\ufe0f",
+          "type": "main",
+          "historicalDetail": "The profound Kshatriya dharma of rising above hesitation, upholding righteousness without attachment, and fighting steadfastly to restore moral order in the cosmos."
+        },
+        "M": {
+          "id": "m4",
+          "name": "Gandiva Bow",
+          "category": "M",
+          "points": 4,
+          "rulerId": "arjuna",
+          "rulerName": "Arjuna",
+          "symbol": "\u26a1",
+          "type": "main",
+          "itemType": "Celestial Weapon",
+          "historicalDetail": "The divine celestial bow gifted by Agni and Varuna, inlaid with gold, capable of shooting hundreds of blazing arrows in a split second with lightning resonance."
+        },
+        "R": {
+          "id": "r4",
+          "name": "Kamyaka Forest",
+          "category": "R",
+          "points": 2,
+          "rulerId": "arjuna",
+          "rulerName": "Arjuna",
+          "symbol": "\ud83c\udf32",
+          "type": "main",
+          "historicalDetail": "The sacred enchanted wilderness along the banks of the Saraswati, where the Pandavas resided during exile and where sages imparted divine knowledge."
+        }
+      }
+    },
+    {
+      "id": "karna",
+      "name": "Karna",
+      "era": "Dvapara Yuga \u00b7 Anga Realm",
+      "father": null,
+      "son": null,
+      "kinship": "Son of Surya and Kunti \u00b7 King of Anga",
+      "historicalNarrative": "The tragic and peerless hero born of Surya with golden armor and earrings, whose unwavering friendship with Duryodhana and legendary charity remain unmatched in the epic.",
+      "cards": {
+        "C": {
+          "id": "c5",
+          "name": "Karna",
+          "category": "C",
+          "points": 8,
+          "rulerId": "karna",
+          "rulerName": "Karna",
+          "symbol": "\u2600\ufe0f",
+          "type": "main",
+          "immediateFather": "Surya (Father)",
+          "immediateSon": "Vrishakethu (Son)",
+          "historicalDetail": "The supreme archer and loyal King of Anga whose generosity was absolute. A master of celestial astras who stood fearless against all odds on the seventeenth day."
+        },
+        "L": {
+          "id": "l5",
+          "name": "Karna's Charity \u2014 Karna",
+          "category": "L",
+          "points": 6,
+          "rulerId": "karna",
+          "rulerName": "Karna",
+          "symbol": "\ud83e\ude99",
+          "type": "main",
+          "historicalDetail": "Danaveera Karna never turned away a seeker. He willingly cut off his inborn golden armor (Kavacha) and divine earrings (Kundala) for Indra disguised as a brahmana."
+        },
+        "M": {
+          "id": "m5",
+          "name": "Brahmastra",
+          "category": "M",
+          "points": 4,
+          "rulerId": "karna",
+          "rulerName": "Karna",
+          "symbol": "\u2604\ufe0f",
+          "type": "main",
+          "itemType": "Divine Astra",
+          "historicalDetail": "The terrifying weapon of cosmic destruction created by Lord Brahma, capable of incinerating legions, learned by Karna under the rigorous tutelage of sage Parashurama."
+        },
+        "R": {
+          "id": "r5",
+          "name": "Kurukshetra",
+          "category": "R",
+          "points": 2,
+          "rulerId": "karna",
+          "rulerName": "Karna",
+          "symbol": "\u2694\ufe0f",
+          "type": "main",
+          "historicalDetail": "The sacred Dharmakshetra field of destiny where the eighteen-day epic war was fought, bearing witness to Karna's final heroic stand and tragic ascension."
+        }
+      }
+    },
+    {
+      "id": "bhishma",
+      "name": "Bhishma",
+      "era": "Dvapara Yuga \u00b7 Kuru Dynasty",
+      "father": null,
+      "son": null,
+      "kinship": "Son of King Shantanu and Goddess Ganga",
+      "historicalNarrative": "Devavrata, the revered patriarch of the Kuru dynasty who took the fierce vow of celibacy and lifelong servitude to the throne of Hastinapura, blessed with Iccha-Mrityu (death at will).",
+      "cards": {
+        "C": {
+          "id": "c6",
+          "name": "Bhishma",
+          "category": "C",
+          "points": 8,
+          "rulerId": "bhishma",
+          "rulerName": "Bhishma",
+          "symbol": "\ud83d\udee1\ufe0f",
+          "type": "main",
+          "immediateFather": "Shantanu (Father)",
+          "immediateSon": "Dhritarashtra (Ward)",
+          "historicalDetail": "The grand patriarch of the Kurus whose martial skill and ethical stature commanded universal reverence. Supreme commander of the Kaurava army for the first ten days."
+        },
+        "L": {
+          "id": "l6",
+          "name": "Bhishma's Vow \u2014 Bhishma",
+          "category": "L",
+          "points": 6,
+          "rulerId": "bhishma",
+          "rulerName": "Bhishma",
+          "symbol": "\u2744\ufe0f",
+          "type": "main",
+          "historicalDetail": "The terrible vow (Bhishma Pratigya) of lifelong brahmacharya and renunciation of the crown to ensure his father Shantanu's happiness, earning him his revered name."
+        },
+        "M": {
+          "id": "m6",
+          "name": "Pashupatastra",
+          "category": "M",
+          "points": 4,
+          "rulerId": "bhishma",
+          "rulerName": "Bhishma",
+          "symbol": "\ud83d\udd31",
+          "type": "main",
+          "itemType": "Supreme Astra",
+          "historicalDetail": "The supreme celestial projectile of Mahadeva Shiva, wielded with devastating cosmic power, capable of wiping out all creation when invoked with righteous intent."
+        },
+        "R": {
+          "id": "r6",
+          "name": "Hastinapura",
+          "category": "R",
+          "points": 2,
+          "rulerId": "bhishma",
+          "rulerName": "Bhishma",
+          "symbol": "\ud83d\udc18",
+          "type": "main",
+          "historicalDetail": "The legendary city of the Elephant Gate, imperial seat of the Kuru throne along the sacred Ganga, guarded and preserved by Bhishma for generations."
+        }
+      }
+    },
+    {
+      "id": "dronacharya",
+      "name": "Dronacharya",
+      "era": "Dvapara Yuga \u00b7 Kuru Preceptor",
+      "father": null,
+      "son": null,
+      "kinship": "Preceptor of both Pandavas and Kauravas",
+      "historicalNarrative": "The master of archery and military strategy who trained both Kuru princes in the martial arts and astras, commander of the Kaurava forces after the fall of Bhishma.",
+      "cards": {
+        "C": {
+          "id": "c7",
+          "name": "Dronacharya",
+          "category": "C",
+          "points": 8,
+          "rulerId": "dronacharya",
+          "rulerName": "Dronacharya",
+          "symbol": "\ud83c\udff9",
+          "type": "main",
+          "immediateFather": "Bharadwaja (Father)",
+          "immediateSon": "Ashwatthama (Son)",
+          "historicalDetail": "The royal guru of celestial weaponry whose tactical mastery and fierce combat prowess shook the battlefield of Kurukshetra during his five days as supreme commander."
+        },
+        "L": {
+          "id": "l7",
+          "name": "Guru-Dakshina \u2014 Dronacharya",
+          "category": "L",
+          "points": 6,
+          "rulerId": "dronacharya",
+          "rulerName": "Dronacharya",
+          "symbol": "\ud83c\udfaf",
+          "type": "main",
+          "historicalDetail": "The sacred bond between guru and disciple, exemplified when Drona demanded the defeat and capture of King Drupada of Panchala as his disciples' final offering."
+        },
+        "M": {
+          "id": "m7",
+          "name": "Bhagavad Gita Teachings",
+          "category": "M",
+          "points": 4,
+          "rulerId": "dronacharya",
+          "rulerName": "Dronacharya",
+          "symbol": "\ud83d\udcd6",
+          "type": "main",
+          "itemType": "Sacred Philosophy",
+          "historicalDetail": "The immortal eighteen chapters of divine dialogue between Krishna and Arjuna, unveiling the eternal pathways of Karma Yoga, Bhakti Yoga, and Jnana Yoga."
+        },
+        "R": {
+          "id": "r7",
+          "name": "Panchala",
+          "category": "R",
+          "points": 2,
+          "rulerId": "dronacharya",
+          "rulerName": "Dronacharya",
+          "symbol": "\ud83c\udfdb\ufe0f",
+          "type": "main",
+          "historicalDetail": "The ancient realm of King Drupada divided by the holy river Ganga, northern half granted to Drona as teacher's homage by the victorious Pandava disciples."
+        }
+      }
+    },
+    {
+      "id": "duryodhana",
+      "name": "Duryodhana",
+      "era": "Dvapara Yuga \u00b7 Kuru Dynasty",
+      "father": null,
+      "son": null,
+      "kinship": "Eldest Kaurava \u00b7 Son of Dhritarashtra and Gandhari",
+      "historicalNarrative": "The ambitious and formidable eldest Kaurava brother, master of gada-yuddha (mace warfare) trained by Balarama, who commanded eleven Akshauhinis of warriors in the great war.",
+      "cards": {
+        "C": {
+          "id": "c8",
+          "name": "Duryodhana",
+          "category": "C",
+          "points": 8,
+          "rulerId": "duryodhana",
+          "rulerName": "Duryodhana",
+          "symbol": "\u2694\ufe0f",
+          "type": "main",
+          "immediateFather": "Dhritarashtra (Father)",
+          "immediateSon": "Lakshmana (Son)",
+          "historicalDetail": "The fierce leader of the Kauravas whose unyielding pride and martial prowess defined the conflict. He refused to yield even five needles of land without a trial of arms."
+        },
+        "L": {
+          "id": "l8",
+          "name": "Shanti & Dharma Teachings \u2014 Bhishma",
+          "category": "L",
+          "points": 6,
+          "rulerId": "duryodhana",
+          "rulerName": "Duryodhana",
+          "symbol": "\ud83d\udd4a\ufe0f",
+          "type": "main",
+          "historicalDetail": "The profound post-war discourses delivered by Bhishma from his bed of arrows, expounding the Shanti Parva and Anushasana Parva on justice, governance, and peace."
+        },
+        "M": {
+          "id": "m8",
+          "name": "Mayasabha",
+          "category": "M",
+          "points": 4,
+          "rulerId": "duryodhana",
+          "rulerName": "Duryodhana",
+          "symbol": "\u2728",
+          "type": "main",
+          "itemType": "Palace of Illusions",
+          "historicalDetail": "The magical assembly hall designed by Danava architect Maya for the Pandavas, filled with optical illusions of liquid crystal floors and doors of sapphire."
+        },
+        "R": {
+          "id": "r8",
+          "name": "Gandhara",
+          "category": "R",
+          "points": 2,
+          "rulerId": "duryodhana",
+          "rulerName": "Duryodhana",
+          "symbol": "\ud83c\udfd4\ufe0f",
+          "type": "main",
+          "historicalDetail": "The rugged mountain kingdom beyond the Indus, ancestral domain of Queen Gandhari and King Subala, renowned for skilled horsemen and strategic passes."
+        }
+      }
+    },
+    {
+      "id": "draupadi",
+      "name": "Draupadi",
+      "era": "Dvapara Yuga \u00b7 Panchala Kingdom",
+      "father": null,
+      "son": null,
+      "kinship": "Born of the Sacrificial Altar \u00b7 Daughter of Drupada",
+      "historicalNarrative": "The fiery queen born of sacred sacrificial fire, renowned for incandescent beauty, brilliant intellect, and moral fortitude that challenged the elders of Hastinapura.",
+      "cards": {
+        "C": {
+          "id": "c9",
+          "name": "Draupadi",
+          "category": "C",
+          "points": 8,
+          "rulerId": "draupadi",
+          "rulerName": "Draupadi",
+          "symbol": "\ud83e\udeb7",
+          "type": "main",
+          "immediateFather": "Drupada (Father)",
+          "immediateSon": "Upapandavas (Sons)",
+          "historicalDetail": "The queen born from the sacrificial altar whose blazing spirit and relentless pursuit of justice catalyzed the righteous struggle to restore Dharma across Aryavarta."
+        },
+        "L": {
+          "id": "l9",
+          "name": "Draupadi's Question in the Sabha \u2014 Draupadi",
+          "category": "L",
+          "points": 6,
+          "rulerId": "draupadi",
+          "rulerName": "Draupadi",
+          "symbol": "\u2753",
+          "type": "main",
+          "historicalDetail": "Her immortal philosophical interrogation to Bhishma, Drona, and Dhritarashtra in the dice assembly: 'Did Yudhishthira lose himself first, or did he wager me?'"
+        },
+        "M": {
+          "id": "m9",
+          "name": "Virata's Court",
+          "category": "M",
+          "points": 4,
+          "rulerId": "draupadi",
+          "rulerName": "Draupadi",
+          "symbol": "\ud83c\udfdb\ufe0f",
+          "type": "main",
+          "itemType": "Royal Court of Matsya",
+          "historicalDetail": "The royal court of Matsya where Draupadi served disguised as Sairandhri alongside the Pandavas during their harrowing final year of incognito exile (Agyatavasa)."
+        },
+        "R": {
+          "id": "r9",
+          "name": "Matsya Kingdom",
+          "category": "R",
+          "points": 2,
+          "rulerId": "draupadi",
+          "rulerName": "Draupadi",
+          "symbol": "\ud83d\udc1f",
+          "type": "main",
+          "historicalDetail": "The verdant pastoral kingdom governed by King Virata, celebrated for vast cattle herds, lakeside pavilions, and secret haven of the Pandavas."
+        }
+      }
+    }
+  ],
+  "specialCards": [
+    {
+      "id": "shakuni",
+      "name": "Shakuni \u2014 Dyuta / Dice of Fate",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "\ud83c\udfb2",
+      "count": 2,
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "The master strategist of the loaded dice (Dyuta) crafted from the bones of his ancestors, manipulating the game of chance to seize the fortunes of the realm and steal all accumulated points from the Pot."
+    },
+    {
+      "id": "ashwatthama",
+      "name": "Ashwatthama \u2014 Ashwatthama's Wrath",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "\u2694\ufe0f",
+      "count": 2,
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "The immortal warrior son of Drona bearing the celestial gem on his forehead, unleashing nocturnal fury and celestial astras upon the enemy encampment, stealing the full bounty of the Pot."
+    },
+    {
+      "id": "aadesh",
+      "name": "Krishna's Aadesh",
+      "type": "aadesh",
+      "category": "Special",
+      "symbol": "\ud83d\udcdc",
+      "count": 2,
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Divine Mandate of Lord Krishna. When played, the player commands a category (Creator, Dharma, Marvel, or Region). The next player MUST play a matching category card or play another Wild."
+    },
+    {
+      "id": "mouna",
+      "name": "Mauna Vrat",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "\ud83e\udd2b",
+      "count": 4,
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "The sacred vow of silence (Mauna). Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "chakravyuha",
+      "name": "Chakravyuha",
+      "type": "chakravyuha",
+      "category": "Special",
+      "symbol": "\ud83c\udf00",
+      "count": 2,
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "The formidable seven-tiered circular military formation devised by Drona. Instantly reverses the flow of play (clockwise becomes anticlockwise)."
+    },
+    {
+      "id": "crisis_lakshagriha",
+      "name": "Lakshagriha \u2014 House of Lac",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "\ud83d\udd25",
+      "count": 2,
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Crisis: The treacherous flammable palace of lacquer in Varnavata ignited in the dead of night! Forces the next player to escape by playing a Region (R) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "crisis_kurukshetra",
+      "name": "Kurukshetra \u2014 Great War",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "\u2620\ufe0f",
+      "count": 2,
+      "points": 0,
+      "effect": "force_marvel",
+      "historicalContext": "Crisis: The cosmic eighteen-day war at Kurukshetra erupts with devastating astras! Forces the next player to deploy a divine weapon / Marvel (M) card, or draw a penalty card and lose 1 point."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "name": "Krishna",
+      "category": "C",
+      "points": 8,
+      "rulerId": "krishna",
+      "rulerName": "Krishna",
+      "symbol": "\ud83e\udd9a",
+      "type": "main",
+      "immediateFather": null,
+      "immediateSon": "Arjuna (Kin)",
+      "historicalDetail": "The Supreme Guide and avatar of Vishnu who established righteousness. Master diplomat at the Hastinapura peace embassy and charioteer to Arjuna at Kurukshetra."
+    },
+    {
+      "id": "l1",
+      "name": "Krishna's Counsel \u2014 Krishna",
+      "category": "L",
+      "points": 6,
+      "rulerId": "krishna",
+      "rulerName": "Krishna",
+      "symbol": "\ud83d\udcdc",
+      "type": "main",
+      "historicalDetail": "The immortal moral and strategic wisdom imparted by Krishna\u2014guiding Yudhishthira toward righteousness and counselling the warrior princes through the darkest tribulations."
+    },
+    {
+      "id": "m1",
+      "name": "Sudarshana Chakra",
+      "category": "M",
+      "points": 4,
+      "rulerId": "krishna",
+      "rulerName": "Krishna",
+      "symbol": "\u2638\ufe0f",
+      "type": "main",
+      "itemType": "Divine Astra",
+      "historicalDetail": "The supreme spinning discus of cosmic fire, bearing 108 serrated edges, capable of cleaving any defense and upholding Dharma across all three worlds."
+    },
+    {
+      "id": "r1",
+      "name": "Dwaraka",
+      "category": "R",
+      "points": 2,
+      "rulerId": "krishna",
+      "rulerName": "Krishna",
+      "symbol": "\ud83c\udf0a",
+      "type": "main",
+      "historicalDetail": "The submerged golden citadel on the western sea, built by Vishwakarma with ramparts of gold and crystalline towers, sanctuary of the Vrishnis and Yadavas."
+    },
+    {
+      "id": "c2",
+      "name": "Yudhishthira",
+      "category": "C",
+      "points": 8,
+      "rulerId": "yudhishthira",
+      "rulerName": "Yudhishthira",
+      "symbol": "\ud83d\udc51",
+      "type": "main",
+      "immediateFather": "Dharma",
+      "immediateSon": "Bhima (Brother)",
+      "historicalDetail": "Dharmaraja, crowned King of Indraprastha and Hastinapura. Victor of the Rajasuya sacrifice whose devotion to truth guided the Pandavas through exile and war."
+    },
+    {
+      "id": "l2",
+      "name": "Rajadharma \u2014 Yudhishthira",
+      "category": "L",
+      "points": 6,
+      "rulerId": "yudhishthira",
+      "rulerName": "Yudhishthira",
+      "symbol": "\u2696\ufe0f",
+      "type": "main",
+      "historicalDetail": "The noble principles of righteous kingship: compassion toward subjects, protection of the vulnerable, and adherence to moral duty even in the face of ruin."
+    },
+    {
+      "id": "m2",
+      "name": "Akshaya Patra",
+      "category": "M",
+      "points": 4,
+      "rulerId": "yudhishthira",
+      "rulerName": "Yudhishthira",
+      "symbol": "\ud83c\udf72",
+      "type": "main",
+      "itemType": "Sacred Vessel",
+      "historicalDetail": "The inexhaustible copper vessel bestowed by Surya the Sun God to Yudhishthira during forest exile, providing endless divine sustenance until Draupadi finished her meal."
+    },
+    {
+      "id": "r2",
+      "name": "Indraprastha",
+      "category": "R",
+      "points": 2,
+      "rulerId": "yudhishthira",
+      "rulerName": "Yudhishthira",
+      "symbol": "\ud83c\udff0",
+      "type": "main",
+      "historicalDetail": "The resplendent capital founded by the Pandavas in the cleared Khandava tract, renowned for wide avenues, moated fortifications, and celestial splendor."
+    },
+    {
+      "id": "c3",
+      "name": "Bhima",
+      "category": "C",
+      "points": 8,
+      "rulerId": "bhima",
+      "rulerName": "Bhima",
+      "symbol": "\ud83d\udc2f",
+      "type": "main",
+      "immediateFather": "Yudhishthira (Elder)",
+      "immediateSon": "Arjuna (Brother)",
+      "historicalDetail": "The indomitable warrior possessing unmatched colossal strength. Slaying Jarasandha, Kichaka, and Dushasana, he fulfilled every vow with unrelenting valor."
+    },
+    {
+      "id": "l3",
+      "name": "Bhima's Vow \u2014 Bhima",
+      "category": "L",
+      "points": 6,
+      "rulerId": "bhima",
+      "rulerName": "Bhima",
+      "symbol": "\ud83d\udd25",
+      "type": "main",
+      "historicalDetail": "The unbreakable warrior oath sworn in the royal court to protect righteousness, destroy the oppressors, and wash Draupadi's unbound hair with the blood of justice."
+    },
+    {
+      "id": "m3",
+      "name": "Kaumodaki Gada",
+      "category": "M",
+      "points": 4,
+      "rulerId": "bhima",
+      "rulerName": "Bhima",
+      "symbol": "\ud83d\udd28",
+      "type": "main",
+      "itemType": "Legendary Mace",
+      "historicalDetail": "The thunderous divine mace crafted of celestial gold and meteor iron, swinging with the force of mountain storms to shatter iron armor and chariot walls."
+    },
+    {
+      "id": "r3",
+      "name": "Magadha",
+      "category": "R",
+      "points": 2,
+      "rulerId": "bhima",
+      "rulerName": "Bhima",
+      "symbol": "\u26f0\ufe0f",
+      "type": "main",
+      "historicalDetail": "The ancient fortress realm of Girivraja, surrounded by five jagged hills, where Bhima engaged the formidable King Jarasandha in a historic fourteen-day wrestling duel."
+    },
+    {
+      "id": "c4",
+      "name": "Arjuna",
+      "category": "C",
+      "points": 8,
+      "rulerId": "arjuna",
+      "rulerName": "Arjuna",
+      "symbol": "\ud83c\udff9",
+      "type": "main",
+      "immediateFather": "Bhima (Elder)",
+      "immediateSon": "Abhimanyu (Son)",
+      "historicalDetail": "The legendary warrior of focused sight who won Draupadi at the swayamvara, vanquished the Nivatakavachas, and turned the tide of the great Kurukshetra war."
+    },
+    {
+      "id": "l4",
+      "name": "Arjuna's Duty \u2014 Arjuna",
+      "category": "L",
+      "points": 6,
+      "rulerId": "arjuna",
+      "rulerName": "Arjuna",
+      "symbol": "\ud83d\udee1\ufe0f",
+      "type": "main",
+      "historicalDetail": "The profound Kshatriya dharma of rising above hesitation, upholding righteousness without attachment, and fighting steadfastly to restore moral order in the cosmos."
+    },
+    {
+      "id": "m4",
+      "name": "Gandiva Bow",
+      "category": "M",
+      "points": 4,
+      "rulerId": "arjuna",
+      "rulerName": "Arjuna",
+      "symbol": "\u26a1",
+      "type": "main",
+      "itemType": "Celestial Weapon",
+      "historicalDetail": "The divine celestial bow gifted by Agni and Varuna, inlaid with gold, capable of shooting hundreds of blazing arrows in a split second with lightning resonance."
+    },
+    {
+      "id": "r4",
+      "name": "Kamyaka Forest",
+      "category": "R",
+      "points": 2,
+      "rulerId": "arjuna",
+      "rulerName": "Arjuna",
+      "symbol": "\ud83c\udf32",
+      "type": "main",
+      "historicalDetail": "The sacred enchanted wilderness along the banks of the Saraswati, where the Pandavas resided during exile and where sages imparted divine knowledge."
+    },
+    {
+      "id": "c5",
+      "name": "Karna",
+      "category": "C",
+      "points": 8,
+      "rulerId": "karna",
+      "rulerName": "Karna",
+      "symbol": "\u2600\ufe0f",
+      "type": "main",
+      "immediateFather": "Surya (Father)",
+      "immediateSon": "Vrishakethu (Son)",
+      "historicalDetail": "The supreme archer and loyal King of Anga whose generosity was absolute. A master of celestial astras who stood fearless against all odds on the seventeenth day."
+    },
+    {
+      "id": "l5",
+      "name": "Karna's Charity \u2014 Karna",
+      "category": "L",
+      "points": 6,
+      "rulerId": "karna",
+      "rulerName": "Karna",
+      "symbol": "\ud83e\ude99",
+      "type": "main",
+      "historicalDetail": "Danaveera Karna never turned away a seeker. He willingly cut off his inborn golden armor (Kavacha) and divine earrings (Kundala) for Indra disguised as a brahmana."
+    },
+    {
+      "id": "m5",
+      "name": "Brahmastra",
+      "category": "M",
+      "points": 4,
+      "rulerId": "karna",
+      "rulerName": "Karna",
+      "symbol": "\u2604\ufe0f",
+      "type": "main",
+      "itemType": "Divine Astra",
+      "historicalDetail": "The terrifying weapon of cosmic destruction created by Lord Brahma, capable of incinerating legions, learned by Karna under the rigorous tutelage of sage Parashurama."
+    },
+    {
+      "id": "r5",
+      "name": "Kurukshetra",
+      "category": "R",
+      "points": 2,
+      "rulerId": "karna",
+      "rulerName": "Karna",
+      "symbol": "\u2694\ufe0f",
+      "type": "main",
+      "historicalDetail": "The sacred Dharmakshetra field of destiny where the eighteen-day epic war was fought, bearing witness to Karna's final heroic stand and tragic ascension."
+    },
+    {
+      "id": "c6",
+      "name": "Bhishma",
+      "category": "C",
+      "points": 8,
+      "rulerId": "bhishma",
+      "rulerName": "Bhishma",
+      "symbol": "\ud83d\udee1\ufe0f",
+      "type": "main",
+      "immediateFather": "Shantanu (Father)",
+      "immediateSon": "Dhritarashtra (Ward)",
+      "historicalDetail": "The grand patriarch of the Kurus whose martial skill and ethical stature commanded universal reverence. Supreme commander of the Kaurava army for the first ten days."
+    },
+    {
+      "id": "l6",
+      "name": "Bhishma's Vow \u2014 Bhishma",
+      "category": "L",
+      "points": 6,
+      "rulerId": "bhishma",
+      "rulerName": "Bhishma",
+      "symbol": "\u2744\ufe0f",
+      "type": "main",
+      "historicalDetail": "The terrible vow (Bhishma Pratigya) of lifelong brahmacharya and renunciation of the crown to ensure his father Shantanu's happiness, earning him his revered name."
+    },
+    {
+      "id": "m6",
+      "name": "Pashupatastra",
+      "category": "M",
+      "points": 4,
+      "rulerId": "bhishma",
+      "rulerName": "Bhishma",
+      "symbol": "\ud83d\udd31",
+      "type": "main",
+      "itemType": "Supreme Astra",
+      "historicalDetail": "The supreme celestial projectile of Mahadeva Shiva, wielded with devastating cosmic power, capable of wiping out all creation when invoked with righteous intent."
+    },
+    {
+      "id": "r6",
+      "name": "Hastinapura",
+      "category": "R",
+      "points": 2,
+      "rulerId": "bhishma",
+      "rulerName": "Bhishma",
+      "symbol": "\ud83d\udc18",
+      "type": "main",
+      "historicalDetail": "The legendary city of the Elephant Gate, imperial seat of the Kuru throne along the sacred Ganga, guarded and preserved by Bhishma for generations."
+    },
+    {
+      "id": "c7",
+      "name": "Dronacharya",
+      "category": "C",
+      "points": 8,
+      "rulerId": "dronacharya",
+      "rulerName": "Dronacharya",
+      "symbol": "\ud83c\udff9",
+      "type": "main",
+      "immediateFather": "Bharadwaja (Father)",
+      "immediateSon": "Ashwatthama (Son)",
+      "historicalDetail": "The royal guru of celestial weaponry whose tactical mastery and fierce combat prowess shook the battlefield of Kurukshetra during his five days as supreme commander."
+    },
+    {
+      "id": "l7",
+      "name": "Guru-Dakshina \u2014 Dronacharya",
+      "category": "L",
+      "points": 6,
+      "rulerId": "dronacharya",
+      "rulerName": "Dronacharya",
+      "symbol": "\ud83c\udfaf",
+      "type": "main",
+      "historicalDetail": "The sacred bond between guru and disciple, exemplified when Drona demanded the defeat and capture of King Drupada of Panchala as his disciples' final offering."
+    },
+    {
+      "id": "m7",
+      "name": "Bhagavad Gita Teachings",
+      "category": "M",
+      "points": 4,
+      "rulerId": "dronacharya",
+      "rulerName": "Dronacharya",
+      "symbol": "\ud83d\udcd6",
+      "type": "main",
+      "itemType": "Sacred Philosophy",
+      "historicalDetail": "The immortal eighteen chapters of divine dialogue between Krishna and Arjuna, unveiling the eternal pathways of Karma Yoga, Bhakti Yoga, and Jnana Yoga."
+    },
+    {
+      "id": "r7",
+      "name": "Panchala",
+      "category": "R",
+      "points": 2,
+      "rulerId": "dronacharya",
+      "rulerName": "Dronacharya",
+      "symbol": "\ud83c\udfdb\ufe0f",
+      "type": "main",
+      "historicalDetail": "The ancient realm of King Drupada divided by the holy river Ganga, northern half granted to Drona as teacher's homage by the victorious Pandava disciples."
+    },
+    {
+      "id": "c8",
+      "name": "Duryodhana",
+      "category": "C",
+      "points": 8,
+      "rulerId": "duryodhana",
+      "rulerName": "Duryodhana",
+      "symbol": "\u2694\ufe0f",
+      "type": "main",
+      "immediateFather": "Dhritarashtra (Father)",
+      "immediateSon": "Lakshmana (Son)",
+      "historicalDetail": "The fierce leader of the Kauravas whose unyielding pride and martial prowess defined the conflict. He refused to yield even five needles of land without a trial of arms."
+    },
+    {
+      "id": "l8",
+      "name": "Shanti & Dharma Teachings \u2014 Bhishma",
+      "category": "L",
+      "points": 6,
+      "rulerId": "duryodhana",
+      "rulerName": "Duryodhana",
+      "symbol": "\ud83d\udd4a\ufe0f",
+      "type": "main",
+      "historicalDetail": "The profound post-war discourses delivered by Bhishma from his bed of arrows, expounding the Shanti Parva and Anushasana Parva on justice, governance, and peace."
+    },
+    {
+      "id": "m8",
+      "name": "Mayasabha",
+      "category": "M",
+      "points": 4,
+      "rulerId": "duryodhana",
+      "rulerName": "Duryodhana",
+      "symbol": "\u2728",
+      "type": "main",
+      "itemType": "Palace of Illusions",
+      "historicalDetail": "The magical assembly hall designed by Danava architect Maya for the Pandavas, filled with optical illusions of liquid crystal floors and doors of sapphire."
+    },
+    {
+      "id": "r8",
+      "name": "Gandhara",
+      "category": "R",
+      "points": 2,
+      "rulerId": "duryodhana",
+      "rulerName": "Duryodhana",
+      "symbol": "\ud83c\udfd4\ufe0f",
+      "type": "main",
+      "historicalDetail": "The rugged mountain kingdom beyond the Indus, ancestral domain of Queen Gandhari and King Subala, renowned for skilled horsemen and strategic passes."
+    },
+    {
+      "id": "c9",
+      "name": "Draupadi",
+      "category": "C",
+      "points": 8,
+      "rulerId": "draupadi",
+      "rulerName": "Draupadi",
+      "symbol": "\ud83e\udeb7",
+      "type": "main",
+      "immediateFather": "Drupada (Father)",
+      "immediateSon": "Upapandavas (Sons)",
+      "historicalDetail": "The queen born from the sacrificial altar whose blazing spirit and relentless pursuit of justice catalyzed the righteous struggle to restore Dharma across Aryavarta."
+    },
+    {
+      "id": "l9",
+      "name": "Draupadi's Question in the Sabha \u2014 Draupadi",
+      "category": "L",
+      "points": 6,
+      "rulerId": "draupadi",
+      "rulerName": "Draupadi",
+      "symbol": "\u2753",
+      "type": "main",
+      "historicalDetail": "Her immortal philosophical interrogation to Bhishma, Drona, and Dhritarashtra in the dice assembly: 'Did Yudhishthira lose himself first, or did he wager me?'"
+    },
+    {
+      "id": "m9",
+      "name": "Virata's Court",
+      "category": "M",
+      "points": 4,
+      "rulerId": "draupadi",
+      "rulerName": "Draupadi",
+      "symbol": "\ud83c\udfdb\ufe0f",
+      "type": "main",
+      "itemType": "Royal Court of Matsya",
+      "historicalDetail": "The royal court of Matsya where Draupadi served disguised as Sairandhri alongside the Pandavas during their harrowing final year of incognito exile (Agyatavasa)."
+    },
+    {
+      "id": "r9",
+      "name": "Matsya Kingdom",
+      "category": "R",
+      "points": 2,
+      "rulerId": "draupadi",
+      "rulerName": "Draupadi",
+      "symbol": "\ud83d\udc1f",
+      "type": "main",
+      "historicalDetail": "The verdant pastoral kingdom governed by King Virata, celebrated for vast cattle herds, lakeside pavilions, and secret haven of the Pandavas."
+    },
+    {
+      "id": "sp1a",
+      "name": "Shakuni \u2014 Dyuta / Dice of Fate",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "\ud83c\udfb2",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "The master strategist of the loaded dice (Dyuta) crafted from the bones of his ancestors, manipulating the game of chance to seize the fortunes of the realm and steal all accumulated points from the Pot."
+    },
+    {
+      "id": "sp1b",
+      "name": "Shakuni \u2014 Dyuta / Dice of Fate",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "\ud83c\udfb2",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "The master strategist of the loaded dice (Dyuta) crafted from the bones of his ancestors, manipulating the game of chance to seize the fortunes of the realm and steal all accumulated points from the Pot."
+    },
+    {
+      "id": "sp1c",
+      "name": "Ashwatthama \u2014 Ashwatthama's Wrath",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "\u2694\ufe0f",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "The immortal warrior son of Drona bearing the celestial gem on his forehead, unleashing nocturnal fury and celestial astras upon the enemy encampment, stealing the full bounty of the Pot."
+    },
+    {
+      "id": "sp1d",
+      "name": "Ashwatthama \u2014 Ashwatthama's Wrath",
+      "type": "rival",
+      "category": "Rival",
+      "symbol": "\u2694\ufe0f",
+      "points": 0,
+      "effect": "steal_pot",
+      "historicalContext": "The immortal warrior son of Drona bearing the celestial gem on his forehead, unleashing nocturnal fury and celestial astras upon the enemy encampment, stealing the full bounty of the Pot."
+    },
+    {
+      "id": "sp2a",
+      "name": "Krishna's Aadesh",
+      "type": "aadesh",
+      "category": "Special",
+      "symbol": "\ud83d\udcdc",
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Divine Mandate of Lord Krishna. When played, the player commands a category (Creator, Dharma, Marvel, or Region). The next player MUST play a matching category card or play another Wild."
+    },
+    {
+      "id": "sp2b",
+      "name": "Krishna's Aadesh",
+      "type": "aadesh",
+      "category": "Special",
+      "symbol": "\ud83d\udcdc",
+      "points": 0,
+      "effect": "command_category",
+      "historicalContext": "Divine Mandate of Lord Krishna. When played, the player commands a category (Creator, Dharma, Marvel, or Region). The next player MUST play a matching category card or play another Wild."
+    },
+    {
+      "id": "sp3a",
+      "name": "Mauna Vrat",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "\ud83e\udd2b",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "The sacred vow of silence (Mauna). Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp3b",
+      "name": "Mauna Vrat",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "\ud83e\udd2b",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "The sacred vow of silence (Mauna). Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp3c",
+      "name": "Mauna Vrat",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "\ud83e\udd2b",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "The sacred vow of silence (Mauna). Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp3d",
+      "name": "Mauna Vrat",
+      "type": "mouna",
+      "category": "Special",
+      "symbol": "\ud83e\udd2b",
+      "points": 0,
+      "effect": "skip_next",
+      "historicalContext": "The sacred vow of silence (Mauna). Forces the next player to lose their turn completely, draw 1 card from the deck, and suffer a 1-point penalty."
+    },
+    {
+      "id": "sp4a",
+      "name": "Chakravyuha",
+      "type": "chakravyuha",
+      "category": "Special",
+      "symbol": "\ud83c\udf00",
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "The formidable seven-tiered circular military formation devised by Drona. Instantly reverses the flow of play (clockwise becomes anticlockwise)."
+    },
+    {
+      "id": "sp4b",
+      "name": "Chakravyuha",
+      "type": "chakravyuha",
+      "category": "Special",
+      "symbol": "\ud83c\udf00",
+      "points": 0,
+      "effect": "reverse_order",
+      "historicalContext": "The formidable seven-tiered circular military formation devised by Drona. Instantly reverses the flow of play (clockwise becomes anticlockwise)."
+    },
+    {
+      "id": "sp5a",
+      "name": "Lakshagriha \u2014 House of Lac",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "\ud83d\udd25",
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Crisis: The treacherous flammable palace of lacquer in Varnavata ignited in the dead of night! Forces the next player to escape by playing a Region (R) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "sp5b",
+      "name": "Lakshagriha \u2014 House of Lac",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "\ud83d\udd25",
+      "points": 0,
+      "effect": "force_region",
+      "historicalContext": "Crisis: The treacherous flammable palace of lacquer in Varnavata ignited in the dead of night! Forces the next player to escape by playing a Region (R) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "sp5c",
+      "name": "Kurukshetra \u2014 Great War",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "\u2620\ufe0f",
+      "points": 0,
+      "effect": "force_marvel",
+      "historicalContext": "Crisis: The cosmic eighteen-day war at Kurukshetra erupts with devastating astras! Forces the next player to deploy a divine weapon / Marvel (M) card, or draw a penalty card and lose 1 point."
+    },
+    {
+      "id": "sp5d",
+      "name": "Kurukshetra \u2014 Great War",
+      "type": "crisis",
+      "category": "Special",
+      "symbol": "\u2620\ufe0f",
+      "points": 0,
+      "effect": "force_marvel",
+      "historicalContext": "Crisis: The cosmic eighteen-day war at Kurukshetra erupts with devastating astras! Forces the next player to deploy a divine weapon / Marvel (M) card, or draw a penalty card and lose 1 point."
+    }
+  ]
+}

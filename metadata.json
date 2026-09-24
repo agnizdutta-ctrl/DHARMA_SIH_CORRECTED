@@ -1,0 +1,6 @@
+{
+  "name": "Dharma: Mahabharat",
+  "description": "A strategic, real-time multiplayer Indian historical card duel based on the CLeMaR taxonomy across Mughal, Swaraj, and Mahabharata eras, featuring dynastic branching chains, Rival pot steals, and authentic historical lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
